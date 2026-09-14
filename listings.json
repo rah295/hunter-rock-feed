@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-09-14T18:52:56Z",
+ "generated_at": "2026-09-14T19:05:58Z",
  "shop_url": "https://www.etsy.com/shop/HunterMinerals",
  "for_sale": [
   {
@@ -10,7 +10,17 @@
    "locality": "Naica Mine, Bermejillo Mexico",
    "measurements": "975 g · 14 × 11 × 5 cm",
    "price": "$375",
-   "url": "https://www.etsy.com/listing/4574677172/selenite-naica-mine-bermejillo-mexico?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/4574677172/selenite-naica-mine-bermejillo-mexico?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/8781b5/8518893976/il_570xN.8518893976_mvc9.jpg",
+    "https://i.etsystatic.com/41028267/r/il/6823b4/8566764817/il_570xN.8566764817_3sm6.jpg",
+    "https://i.etsystatic.com/41028267/r/il/672599/8566764885/il_570xN.8566764885_9gqj.jpg",
+    "https://i.etsystatic.com/41028267/r/il/c24f2c/8518894200/il_570xN.8518894200_5mvw.jpg",
+    "https://i.etsystatic.com/41028267/r/il/b82ef3/8566765175/il_570xN.8566765175_gpz5.jpg",
+    "https://i.etsystatic.com/41028267/r/il/f64fba/8566765377/il_570xN.8566765377_hpkb.jpg",
+    "https://i.etsystatic.com/41028267/r/il/74729e/8518894686/il_570xN.8518894686_sh42.jpg",
+    "https://i.etsystatic.com/41028267/r/il/5555be/8566765605/il_570xN.8566765605_13lg.jpg"
+   ]
   },
   {
    "name": "Selenite",
@@ -19,7 +29,17 @@
    "locality": "Naica Mine Mexico",
    "measurements": "2.9 kg · 29 × 19 × 12 cm",
    "price": "$600",
-   "url": "https://www.etsy.com/listing/4574675798/selenite-naica-mine-mexico-29-kg-29-x-19?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/4574675798/selenite-naica-mine-mexico-29-kg-29-x-19?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/43dc37/8518884584/il_570xN.8518884584_s5p9.jpg",
+    "https://i.etsystatic.com/41028267/r/il/f9869a/8518884636/il_570xN.8518884636_wmue.jpg",
+    "https://i.etsystatic.com/41028267/r/il/c9c90b/8518884686/il_570xN.8518884686_7s6y.jpg",
+    "https://i.etsystatic.com/41028267/r/il/45b9ff/8566755257/il_570xN.8566755257_ksiz.jpg",
+    "https://i.etsystatic.com/41028267/r/il/354649/8518884824/il_570xN.8518884824_lhj3.jpg",
+    "https://i.etsystatic.com/41028267/r/il/c8bce8/8566755391/il_570xN.8566755391_ienf.jpg",
+    "https://i.etsystatic.com/41028267/r/il/e3b47f/8566755479/il_570xN.8566755479_pvih.jpg",
+    "https://i.etsystatic.com/41028267/r/il/fa896c/8566755567/il_570xN.8566755567_1cyq.jpg"
+   ]
   },
   {
    "name": "Selenite",
@@ -28,7 +48,16 @@
    "locality": "Naica Mine, Bermejillo Mexico",
    "measurements": "1.3 kg · 14 × 13 × 20 cm",
    "price": "$700",
-   "url": "https://www.etsy.com/listing/4574674432/selenite-naica-mine-bermejillo-mexico-13?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/4574674432/selenite-naica-mine-bermejillo-mexico-13?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/3e96b8/8566745025/il_570xN.8566745025_lrur.jpg",
+    "https://i.etsystatic.com/41028267/r/il/af6cd5/8566745085/il_570xN.8566745085_8owi.jpg",
+    "https://i.etsystatic.com/41028267/r/il/d22287/8518874698/il_570xN.8518874698_3v4x.jpg",
+    "https://i.etsystatic.com/41028267/r/il/29ebb6/8518874802/il_570xN.8518874802_cw09.jpg",
+    "https://i.etsystatic.com/41028267/r/il/7b51a5/8566745357/il_570xN.8566745357_ilj9.jpg",
+    "https://i.etsystatic.com/41028267/r/il/c3deb9/8518874944/il_570xN.8518874944_rgx9.jpg",
+    "https://i.etsystatic.com/41028267/r/il/5021e1/8566745573/il_570xN.8566745573_5jfh.jpg"
+   ]
   },
   {
    "name": "Almandine Garnet with Graphite",
@@ -37,7 +66,16 @@
    "locality": "Red Embers Mine Massachusetts",
    "measurements": "65 g · 10 × 10 × 1 cm",
    "price": "$225",
-   "url": "https://www.etsy.com/listing/4574606280/almandine-garnet-with-graphite-red?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/4574606280/almandine-garnet-with-graphite-red?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/930477/8566268509/il_570xN.8566268509_mva5.jpg",
+    "https://i.etsystatic.com/41028267/r/il/b03627/8566268675/il_570xN.8566268675_s0g2.jpg",
+    "https://i.etsystatic.com/41028267/r/il/bfcaa4/8566268815/il_570xN.8566268815_iscg.jpg",
+    "https://i.etsystatic.com/41028267/r/il/b87cf8/8518400144/il_570xN.8518400144_ojmn.jpg",
+    "https://i.etsystatic.com/41028267/r/il/0a7dd1/8566268997/il_570xN.8566268997_inmw.jpg",
+    "https://i.etsystatic.com/41028267/r/il/854285/8566269143/il_570xN.8566269143_huwo.jpg",
+    "https://i.etsystatic.com/41028267/r/il/f0d135/8518400498/il_570xN.8518400498_1vk2.jpg"
+   ]
   },
   {
    "name": "Grape Agate",
@@ -46,7 +84,14 @@
    "locality": "Mamuju Indonesia",
    "measurements": "370 g · 17 × 11 × 6 cm",
    "price": "$130",
-   "url": "https://www.etsy.com/listing/4574592503/grape-agate-mamuju-indonesia-370-g-17-x?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/4574592503/grape-agate-mamuju-indonesia-370-g-17-x?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/6a9665/8518428664/il_570xN.8518428664_19js.jpg",
+    "https://i.etsystatic.com/41028267/r/il/086164/8518428740/il_570xN.8518428740_g0ww.jpg",
+    "https://i.etsystatic.com/41028267/r/il/a20e2d/8518428828/il_570xN.8518428828_4olb.jpg",
+    "https://i.etsystatic.com/41028267/r/il/90693f/8566297509/il_570xN.8566297509_god0.jpg",
+    "https://i.etsystatic.com/41028267/r/il/09101c/8518428984/il_570xN.8518428984_httv.jpg"
+   ]
   },
   {
    "name": "Grape Agate",
@@ -55,7 +100,17 @@
    "locality": "Mamuju Indonesia",
    "measurements": "1.5 kg · 29 × 12 × 8 cm",
    "price": "$275",
-   "url": "https://www.etsy.com/listing/4574586781/grape-agate-mamuju-indonesia-15-kg-29-x?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/4574586781/grape-agate-mamuju-indonesia-15-kg-29-x?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/5613d6/8518389734/il_570xN.8518389734_onze.jpg",
+    "https://i.etsystatic.com/41028267/r/il/184e9f/8518389824/il_570xN.8518389824_6hz4.jpg",
+    "https://i.etsystatic.com/41028267/r/il/e237d5/8518389908/il_570xN.8518389908_8ayh.jpg",
+    "https://i.etsystatic.com/41028267/r/il/a80287/8518389990/il_570xN.8518389990_83yc.jpg",
+    "https://i.etsystatic.com/41028267/r/il/4c7f84/8518390076/il_570xN.8518390076_tosp.jpg",
+    "https://i.etsystatic.com/41028267/r/il/9d4d8a/8566258959/il_570xN.8566258959_qmvo.jpg",
+    "https://i.etsystatic.com/41028267/r/il/6688e3/8566259017/il_570xN.8566259017_flrk.jpg",
+    "https://i.etsystatic.com/41028267/r/il/1529d6/8518390340/il_570xN.8518390340_g6gx.jpg"
+   ]
   },
   {
    "name": "Almandine Garnet with Graphite and Dravite",
@@ -64,7 +119,15 @@
    "locality": "Red Embers Mine Massachusetts",
    "measurements": "150 g · 16 × 9 × 1 cm",
    "price": "$570",
-   "url": "https://www.etsy.com/listing/4574585625/almandine-garnet-with-graphite-and?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/4574585625/almandine-garnet-with-graphite-and?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/847f93/8518381270/il_570xN.8518381270_t6m9.jpg",
+    "https://i.etsystatic.com/41028267/r/il/4652e5/8518381414/il_570xN.8518381414_pooj.jpg",
+    "https://i.etsystatic.com/41028267/r/il/c7afc8/8566250463/il_570xN.8566250463_8be7.jpg",
+    "https://i.etsystatic.com/41028267/r/il/f646bc/8518381688/il_570xN.8518381688_4fv6.jpg",
+    "https://i.etsystatic.com/41028267/r/il/6fb00a/8518381816/il_570xN.8518381816_bwim.jpg",
+    "https://i.etsystatic.com/41028267/r/il/42ef98/8566250827/il_570xN.8566250827_a0rn.jpg"
+   ]
   },
   {
    "name": "Almandine Garnet with Graphite and Dravite",
@@ -73,7 +136,17 @@
    "locality": "Red Embers Mine Massachusetts",
    "measurements": "385 g · 22 × 17 × 1 cm",
    "price": "$1,275",
-   "url": "https://www.etsy.com/listing/4574583413/almandine-garnet-with-graphite-and?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/4574583413/almandine-garnet-with-graphite-and?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/e13637/8518365160/il_570xN.8518365160_eia7.jpg",
+    "https://i.etsystatic.com/41028267/r/il/6b4fa8/8566234679/il_570xN.8566234679_dchd.jpg",
+    "https://i.etsystatic.com/41028267/r/il/61cdb2/8518365454/il_570xN.8518365454_adnb.jpg",
+    "https://i.etsystatic.com/41028267/r/il/55ed9e/8518365608/il_570xN.8518365608_kwe4.jpg",
+    "https://i.etsystatic.com/41028267/r/il/4856a9/8566235423/il_570xN.8566235423_83pl.jpg",
+    "https://i.etsystatic.com/41028267/r/il/49f284/8566235535/il_570xN.8566235535_p276.jpg",
+    "https://i.etsystatic.com/41028267/r/il/17d708/8566235657/il_570xN.8566235657_1i6z.jpg",
+    "https://i.etsystatic.com/41028267/r/il/a2e651/8566235831/il_570xN.8566235831_8te4.jpg"
+   ]
   },
   {
    "name": "Almandine Garnet with Graphite",
@@ -82,7 +155,15 @@
    "locality": "Red Embers Mine Massachusetts",
    "measurements": "470 g · 24 × 16 × 1 cm",
    "price": "$1,425",
-   "url": "https://www.etsy.com/listing/4574570123/almandine-garnet-with-graphite-red?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/4574570123/almandine-garnet-with-graphite-red?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/21d03f/8566140141/il_570xN.8566140141_se26.jpg",
+    "https://i.etsystatic.com/41028267/r/il/d483cd/8518269844/il_570xN.8518269844_mft2.jpg",
+    "https://i.etsystatic.com/41028267/r/il/1a7492/8518269996/il_570xN.8518269996_m3ft.jpg",
+    "https://i.etsystatic.com/41028267/r/il/7a7518/8518270178/il_570xN.8518270178_8ogm.jpg",
+    "https://i.etsystatic.com/41028267/r/il/b7d051/8566139765/il_570xN.8566139765_q6fw.jpg",
+    "https://i.etsystatic.com/41028267/r/il/5973d0/8518270496/il_570xN.8518270496_c0fx.jpg"
+   ]
   },
   {
    "name": "Grape Agate",
@@ -91,7 +172,14 @@
    "locality": "Mamuju Indonesia",
    "measurements": "995 g · 27 × 9 × 9 cm",
    "price": "$275",
-   "url": "https://www.etsy.com/listing/4574559925/grape-agate-mamuju-indonesia-995-g-27-x?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/4574559925/grape-agate-mamuju-indonesia-995-g-27-x?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/ac50fe/8518196748/il_570xN.8518196748_j9jt.jpg",
+    "https://i.etsystatic.com/41028267/r/il/646c9e/8518196864/il_570xN.8518196864_crdk.jpg",
+    "https://i.etsystatic.com/41028267/r/il/635c00/8566066459/il_570xN.8566066459_q8wm.jpg",
+    "https://i.etsystatic.com/41028267/r/il/f664b1/8566066531/il_570xN.8566066531_kh1g.jpg",
+    "https://i.etsystatic.com/41028267/r/il/5bf477/8566066563/il_570xN.8566066563_cfj0.jpg"
+   ]
   },
   {
    "name": "Grape Agate",
@@ -100,7 +188,14 @@
    "locality": "Mamuju Indonesia",
    "measurements": "1.3 kg · 25 × 13 × 8 cm",
    "price": "$275",
-   "url": "https://www.etsy.com/listing/4574553567/grape-agate-mamuju-indonesia-13-kg-25-x?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/4574553567/grape-agate-mamuju-indonesia-13-kg-25-x?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/ef8987/8566021427/il_570xN.8566021427_k96e.jpg",
+    "https://i.etsystatic.com/41028267/r/il/ea268c/8566021497/il_570xN.8566021497_3d75.jpg",
+    "https://i.etsystatic.com/41028267/r/il/cab05d/8518152018/il_570xN.8518152018_7ozi.jpg",
+    "https://i.etsystatic.com/41028267/r/il/e751ca/8566021639/il_570xN.8566021639_kc31.jpg",
+    "https://i.etsystatic.com/41028267/r/il/51dd31/8518152174/il_570xN.8518152174_qwjt.jpg"
+   ]
   },
   {
    "name": "Almandine Garnet with Graphite and Dravite",
@@ -109,7 +204,20 @@
    "locality": "Red Embers Mine Massachusetts",
    "measurements": "220 g · 15 × 13 × 1 cm",
    "price": "$1,350",
-   "url": "https://www.etsy.com/listing/4574552844/almandine-garnet-with-graphite-and?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/4574552844/almandine-garnet-with-graphite-and?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/a36410/8518012444/il_570xN.8518012444_evfu.jpg",
+    "https://i.etsystatic.com/41028267/r/il/2371a2/8565881029/il_570xN.8565881029_dlic.jpg",
+    "https://i.etsystatic.com/41028267/r/il/7a9dc1/8518012106/il_570xN.8518012106_ctll.jpg",
+    "https://i.etsystatic.com/41028267/r/il/13c9bf/8518012218/il_570xN.8518012218_pvkc.jpg",
+    "https://i.etsystatic.com/41028267/r/il/bd55aa/8518012284/il_570xN.8518012284_cxpg.jpg",
+    "https://i.etsystatic.com/41028267/r/il/44a0e3/8565881439/il_570xN.8565881439_tugu.jpg",
+    "https://i.etsystatic.com/41028267/r/il/1721ee/8518012542/il_570xN.8518012542_f01s.jpg",
+    "https://i.etsystatic.com/41028267/r/il/9611c5/8518012592/il_570xN.8518012592_k2tg.jpg",
+    "https://i.etsystatic.com/41028267/r/il/14f643/8565900331/il_570xN.8565900331_8s06.jpg",
+    "https://i.etsystatic.com/41028267/r/il/a35a7d/8518031084/il_570xN.8518031084_ome4.jpg",
+    "https://i.etsystatic.com/41028267/r/il/fac773/8518031158/il_570xN.8518031158_6h8s.jpg"
+   ]
   },
   {
    "name": "Almandine Garnet with Graphite and Dravite",
@@ -118,7 +226,13 @@
    "locality": "Red Embers Mine Massachusetts",
    "measurements": "210 g · 16 × 14 × 1 cm",
    "price": "$325",
-   "url": "https://www.etsy.com/listing/4574549045/almandine-garnet-with-graphite-and?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/4574549045/almandine-garnet-with-graphite-and?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/dd9498/8518120978/il_570xN.8518120978_rdvs.jpg",
+    "https://i.etsystatic.com/41028267/r/il/7b13cc/8518120778/il_570xN.8518120778_mfrf.jpg",
+    "https://i.etsystatic.com/41028267/r/il/9858c9/8518120892/il_570xN.8518120892_i6bo.jpg",
+    "https://i.etsystatic.com/41028267/r/il/a1f809/8565990719/il_570xN.8565990719_grlg.jpg"
+   ]
   },
   {
    "name": "Almandine Garnet with Graphite and Dravite",
@@ -127,7 +241,14 @@
    "locality": "Red Embers Mine Massachusetts",
    "measurements": "240 g · 17 × 12 × 1 cm",
    "price": "$630",
-   "url": "https://www.etsy.com/listing/4574538831/almandine-garnet-with-graphite-and?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/4574538831/almandine-garnet-with-graphite-and?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/596e18/8565916911/il_570xN.8565916911_8l4f.jpg",
+    "https://i.etsystatic.com/41028267/r/il/d19322/8565917417/il_570xN.8565917417_751s.jpg",
+    "https://i.etsystatic.com/41028267/r/il/96cc37/8565916777/il_570xN.8565916777_3ic1.jpg",
+    "https://i.etsystatic.com/41028267/r/il/50a6bb/8518047196/il_570xN.8518047196_s5yo.jpg",
+    "https://i.etsystatic.com/41028267/r/il/2d5f99/8565917151/il_570xN.8565917151_6uvl.jpg"
+   ]
   },
   {
    "name": "Almandine Garnet with Graphite and Dravite",
@@ -136,14 +257,34 @@
    "locality": "Red Embers Mine Massachusetts",
    "measurements": "600 g · 29 × 19 × 1 cm",
    "price": "$1,575",
-   "url": "https://www.etsy.com/listing/4574318307/almandine-garnet-with-graphite-and?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/4574318307/almandine-garnet-with-graphite-and?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/1133c4/8516295986/il_570xN.8516295986_o6l1.jpg",
+    "https://i.etsystatic.com/41028267/r/il/f5708e/8564166947/il_570xN.8564166947_fuuh.jpg",
+    "https://i.etsystatic.com/41028267/r/il/83556b/8564167209/il_570xN.8564167209_9kfn.jpg",
+    "https://i.etsystatic.com/41028267/r/il/d50dd2/8516296662/il_570xN.8516296662_rs62.jpg",
+    "https://i.etsystatic.com/41028267/r/il/a50029/8564167535/il_570xN.8564167535_elkt.jpg",
+    "https://i.etsystatic.com/41028267/r/il/a4b73c/8516297098/il_570xN.8516297098_npwr.jpg",
+    "https://i.etsystatic.com/41028267/r/il/5abe94/8564168159/il_570xN.8564168159_kv3p.jpg",
+    "https://i.etsystatic.com/41028267/r/il/43caf3/8516297674/il_570xN.8516297674_kgzx.jpg",
+    "https://i.etsystatic.com/41028267/r/il/c8729a/8564168519/il_570xN.8564168519_5w38.jpg"
+   ]
   },
   {
    "name": "Cabinet Size Fairy Forest Epidote",
    "image": "https://i.etsystatic.com/41028267/r/il/d18d2b/7730109882/il_570xN.7730109882_hvhd.jpg",
    "alt": "Cabinet Size Fairy Forest Epidote",
    "price": "$579",
-   "url": "https://www.etsy.com/listing/4460661452/cabinet-size-fairy-forest-epidote?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/4460661452/cabinet-size-fairy-forest-epidote?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/d18d2b/7730109882/il_570xN.7730109882_hvhd.jpg",
+    "https://i.etsystatic.com/41028267/r/il/5ebaae/7730109404/il_570xN.7730109404_rqo2.jpg",
+    "https://i.etsystatic.com/41028267/r/il/c0e6b0/7778053851/il_570xN.7778053851_kihz.jpg",
+    "https://i.etsystatic.com/41028267/r/il/555d00/7778054141/il_570xN.7778054141_kbey.jpg",
+    "https://i.etsystatic.com/41028267/r/il/98d74e/7730109718/il_570xN.7730109718_567m.jpg",
+    "https://i.etsystatic.com/41028267/r/il/d3252b/7730110024/il_570xN.7730110024_6aji.jpg",
+    "https://i.etsystatic.com/41028267/r/il/ffe741/7730110106/il_570xN.7730110106_7koe.jpg"
+   ]
   },
   {
    "name": "Fairy Forest Epidote",
@@ -152,28 +293,54 @@
    "locality": "Hakkari Türkiye",
    "measurements": "5.1 kg · 32 × 18 × 8 cm",
    "price": "$949",
-   "url": "https://www.etsy.com/listing/4460653411/cabinet-size-fairy-forest-epidote?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/4460653411/cabinet-size-fairy-forest-epidote?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/2b6ee5/7777990725/il_570xN.7777990725_2hcn.jpg",
+    "https://i.etsystatic.com/41028267/r/il/e5c500/7730046382/il_570xN.7730046382_pdlh.jpg",
+    "https://i.etsystatic.com/41028267/r/il/d8e0a4/7730046560/il_570xN.7730046560_3zwb.jpg",
+    "https://i.etsystatic.com/41028267/r/il/e91ca9/7730046208/il_570xN.7730046208_62wm.jpg",
+    "https://i.etsystatic.com/41028267/r/il/2416de/7777990307/il_570xN.7777990307_dhzt.jpg",
+    "https://i.etsystatic.com/41028267/r/il/469d30/7730046110/il_570xN.7730046110_9r8g.jpg"
+   ]
   },
   {
    "name": "Chrysocolla on Malachite Polished Stalactite",
    "image": "https://i.etsystatic.com/41028267/r/il/c707e7/7777982051/il_570xN.7777982051_510l.jpg",
    "alt": "Chrysocolla on Malachite Polished Stalactite",
    "price": "$225",
-   "url": "https://www.etsy.com/listing/4460650722/chrysocolla-on-malachite-polished?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/4460650722/chrysocolla-on-malachite-polished?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/c707e7/7777982051/il_570xN.7777982051_510l.jpg",
+    "https://i.etsystatic.com/41028267/r/il/f99778/7730037404/il_570xN.7730037404_6nqt.jpg",
+    "https://i.etsystatic.com/41028267/r/il/c40fc4/7777982061/il_570xN.7777982061_snnj.jpg",
+    "https://i.etsystatic.com/41028267/r/il/1c03e2/7777982135/il_570xN.7777982135_9k6z.jpg",
+    "https://i.etsystatic.com/41028267/r/il/d496ac/7730037456/il_570xN.7730037456_kq0k.jpg"
+   ]
   },
   {
    "name": "Chrysocolla on Malachite Polished Stalactite",
    "image": "https://i.etsystatic.com/41028267/r/il/6668c0/7777976413/il_570xN.7777976413_75w7.jpg",
    "alt": "Chrysocolla on Malachite Polished Stalactite",
    "price": "$275",
-   "url": "https://www.etsy.com/listing/4460643865/chrysocolla-on-malachite-polished?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/4460643865/chrysocolla-on-malachite-polished?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/6668c0/7777976413/il_570xN.7777976413_75w7.jpg",
+    "https://i.etsystatic.com/41028267/r/il/b7f690/7730031874/il_570xN.7730031874_s77o.jpg",
+    "https://i.etsystatic.com/41028267/r/il/720c6a/7730031660/il_570xN.7730031660_aeaz.jpg"
+   ]
   },
   {
    "name": "Chrysocolla on Malachite Polished Stalactite",
    "image": "https://i.etsystatic.com/41028267/r/il/753dea/7777965993/il_570xN.7777965993_5joa.jpg",
    "alt": "Chrysocolla on Malachite Polished Stalactite",
    "price": "$275",
-   "url": "https://www.etsy.com/listing/4460642761/chrysocolla-on-malachite-polished?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/4460642761/chrysocolla-on-malachite-polished?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/753dea/7777965993/il_570xN.7777965993_5joa.jpg",
+    "https://i.etsystatic.com/41028267/r/il/44df36/7730021326/il_570xN.7730021326_h64i.jpg",
+    "https://i.etsystatic.com/41028267/r/il/a41679/7777966083/il_570xN.7777966083_omsn.jpg",
+    "https://i.etsystatic.com/41028267/r/il/0187d1/7730021414/il_570xN.7730021414_jxy0.jpg"
+   ]
   },
   {
    "name": "Aquamarine with Fluorite and Matrix",
@@ -182,7 +349,14 @@
    "locality": "Gilgit Province Pakistan",
    "measurements": "2.3 kg · 27 × 17 × 9 cm",
    "price": "$745",
-   "url": "https://www.etsy.com/listing/1748390105/aquamarine-and-fluorite-in-matrix?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1748390105/aquamarine-and-fluorite-in-matrix?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/ac18fc/6063857932/il_570xN.6063857932_t8yi.jpg",
+    "https://i.etsystatic.com/41028267/r/il/304c95/6063857930/il_570xN.6063857930_9g0e.jpg",
+    "https://i.etsystatic.com/41028267/r/il/821c78/6111924961/il_570xN.6111924961_lh0o.jpg",
+    "https://i.etsystatic.com/41028267/r/il/07ede6/6063857940/il_570xN.6063857940_nypc.jpg",
+    "https://i.etsystatic.com/41028267/r/il/199259/6063857938/il_570xN.6063857938_51rk.jpg"
+   ]
   },
   {
    "name": "Chatoyant Malachite",
@@ -191,42 +365,88 @@
    "locality": "Shilu Mine China",
    "measurements": "1.5 kg · 13 × 13 × 9 cm",
    "price": "$2,950",
-   "url": "https://www.etsy.com/listing/1748368899/chatoyant-malachite?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1748368899/chatoyant-malachite?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/7620c0/6111821389/il_570xN.6111821389_g65y.jpg",
+    "https://i.etsystatic.com/41028267/r/il/a0f551/6063754304/il_570xN.6063754304_n84g.jpg",
+    "https://i.etsystatic.com/41028267/r/il/1310f1/6063754308/il_570xN.6063754308_5jbf.jpg",
+    "https://i.etsystatic.com/41028267/r/il/3bd3e9/6111821381/il_570xN.6111821381_ei5o.jpg",
+    "https://i.etsystatic.com/41028267/r/il/cc3d93/6111821391/il_570xN.6111821391_15md.jpg",
+    "https://i.etsystatic.com/41028267/r/il/9f72b4/6063754358/il_570xN.6063754358_dk9a.jpg",
+    "https://i.etsystatic.com/41028267/r/il/9582b3/6111821455/il_570xN.6111821455_pmwx.jpg",
+    "https://i.etsystatic.com/41028267/r/il/1d65c5/6111821451/il_570xN.6111821451_mhuw.jpg",
+    "https://i.etsystatic.com/41028267/r/il/50504a/6063754310/il_570xN.6063754310_8jfg.jpg"
+   ]
   },
   {
    "name": "Purple Fluorite",
    "image": "https://i.etsystatic.com/41028267/r/il/66af66/6086247041/il_570xN.6086247041_p169.jpg",
    "alt": "Purple Fluorite",
    "price": "$145",
-   "url": "https://www.etsy.com/listing/1742489397/purple-fluorite?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1742489397/purple-fluorite?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/66af66/6086247041/il_570xN.6086247041_p169.jpg",
+    "https://i.etsystatic.com/41028267/r/il/b3752e/6086247065/il_570xN.6086247065_qct5.jpg",
+    "https://i.etsystatic.com/41028267/r/il/29e56e/6038176754/il_570xN.6038176754_a893.jpg",
+    "https://i.etsystatic.com/41028267/r/il/60a287/6086247077/il_570xN.6086247077_ercb.jpg",
+    "https://i.etsystatic.com/41028267/r/il/f3c901/6086247079/il_570xN.6086247079_s1mj.jpg"
+   ]
   },
   {
    "name": "Specular Hematite with Quartz",
    "image": "https://i.etsystatic.com/41028267/r/il/c959b9/6020563253/il_570xN.6020563253_cqsa.jpg",
    "alt": "Specular Hematite with Quartz",
    "price": "$225",
-   "url": "https://www.etsy.com/listing/1727181057/specular-hematite-with-quartz?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1727181057/specular-hematite-with-quartz?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/c959b9/6020563253/il_570xN.6020563253_cqsa.jpg",
+    "https://i.etsystatic.com/41028267/r/il/96cc63/5972483016/il_570xN.5972483016_652r.jpg",
+    "https://i.etsystatic.com/41028267/r/il/33ebe0/5972483014/il_570xN.5972483014_n5f7.jpg",
+    "https://i.etsystatic.com/41028267/r/il/f547e7/5972483024/il_570xN.5972483024_quo3.jpg",
+    "https://i.etsystatic.com/41028267/r/il/c954ec/5972483020/il_570xN.5972483020_n5ca.jpg",
+    "https://i.etsystatic.com/41028267/r/il/a1af0d/5972483022/il_570xN.5972483022_bw2i.jpg"
+   ]
   },
   {
    "name": "Specular Hematite with Quartz",
    "image": "https://i.etsystatic.com/41028267/r/il/87c9c9/6020555981/il_570xN.6020555981_5nii.jpg",
    "alt": "Specular Hematite with Quartz",
    "price": "$175",
-   "url": "https://www.etsy.com/listing/1727179329/specular-hematite-with-quartz?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1727179329/specular-hematite-with-quartz?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/87c9c9/6020555981/il_570xN.6020555981_5nii.jpg",
+    "https://i.etsystatic.com/41028267/r/il/a242cb/5972475574/il_570xN.5972475574_2epn.jpg",
+    "https://i.etsystatic.com/41028267/r/il/412c7b/5972475576/il_570xN.5972475576_li4l.jpg",
+    "https://i.etsystatic.com/41028267/r/il/1396b0/6020555991/il_570xN.6020555991_4wum.jpg",
+    "https://i.etsystatic.com/41028267/r/il/3de969/6020555989/il_570xN.6020555989_3kq1.jpg"
+   ]
   },
   {
    "name": "Blueberry Fluorite",
    "image": "https://i.etsystatic.com/41028267/r/il/c9ada8/6016207651/il_570xN.6016207651_5ikl.jpg",
    "alt": "Blueberry Fluorite",
    "price": "$90",
-   "url": "https://www.etsy.com/listing/1726165349/blueberry-fluorite?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1726165349/blueberry-fluorite?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/c9ada8/6016207651/il_570xN.6016207651_5ikl.jpg",
+    "https://i.etsystatic.com/41028267/r/il/fa6ab5/5968127262/il_570xN.5968127262_tobg.jpg",
+    "https://i.etsystatic.com/41028267/r/il/95e02f/6016207653/il_570xN.6016207653_38dy.jpg",
+    "https://i.etsystatic.com/41028267/r/il/d1ab07/5968127260/il_570xN.5968127260_iap5.jpg"
+   ]
   },
   {
    "name": "Vivianite in Matrix",
    "image": "https://i.etsystatic.com/41028267/r/il/7e433c/6013233941/il_570xN.6013233941_iwz1.jpg",
    "alt": "Vivianite in Matrix",
    "price": "$575",
-   "url": "https://www.etsy.com/listing/1725446853/vivianite-in-matrix?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1725446853/vivianite-in-matrix?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/7e433c/6013233941/il_570xN.6013233941_iwz1.jpg",
+    "https://i.etsystatic.com/41028267/r/il/81a6d8/6013233949/il_570xN.6013233949_lpah.jpg",
+    "https://i.etsystatic.com/41028267/r/il/4bda99/6013233953/il_570xN.6013233953_kim0.jpg",
+    "https://i.etsystatic.com/41028267/r/il/8f06fb/6013233957/il_570xN.6013233957_akyz.jpg",
+    "https://i.etsystatic.com/41028267/r/il/e51cd3/6013233959/il_570xN.6013233959_41rd.jpg"
+   ]
   },
   {
    "name": "Specular Hematite with Quartz",
@@ -235,7 +455,15 @@
    "locality": "Guangdong China",
    "measurements": "3.3 kg · 23 × 14 × 12 cm",
    "price": "$1,195",
-   "url": "https://www.etsy.com/listing/1712993612/specular-hematite-with-quartz?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1712993612/specular-hematite-with-quartz?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/60e2d4/6020545859/il_570xN.6020545859_pyki.jpg",
+    "https://i.etsystatic.com/41028267/r/il/db4a35/6020545915/il_570xN.6020545915_mgtu.jpg",
+    "https://i.etsystatic.com/41028267/r/il/b1ad0a/5972465380/il_570xN.5972465380_5g09.jpg",
+    "https://i.etsystatic.com/41028267/r/il/f2bff9/5972465382/il_570xN.5972465382_thtq.jpg",
+    "https://i.etsystatic.com/41028267/r/il/a276e7/6020545913/il_570xN.6020545913_cgx8.jpg",
+    "https://i.etsystatic.com/41028267/r/il/330db8/6020545903/il_570xN.6020545903_2cw5.jpg"
+   ]
   },
   {
    "name": "Specular Hematite with Quartz",
@@ -244,21 +472,47 @@
    "locality": "Guangdong China",
    "measurements": "4.4 kg · 25 × 18 × 11 cm",
    "price": "$1,995",
-   "url": "https://www.etsy.com/listing/1712991114/specular-hematite-with-quartz?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1712991114/specular-hematite-with-quartz?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/275e5e/6020527163/il_570xN.6020527163_eljq.jpg",
+    "https://i.etsystatic.com/41028267/r/il/6dc832/5972446862/il_570xN.5972446862_abvw.jpg",
+    "https://i.etsystatic.com/41028267/r/il/f88800/5972446866/il_570xN.5972446866_nqyc.jpg",
+    "https://i.etsystatic.com/41028267/r/il/cd3617/6020527161/il_570xN.6020527161_gizq.jpg",
+    "https://i.etsystatic.com/41028267/r/il/b86b5e/6020527167/il_570xN.6020527167_9ojb.jpg",
+    "https://i.etsystatic.com/41028267/r/il/1e2e88/6020527227/il_570xN.6020527227_96se.jpg",
+    "https://i.etsystatic.com/41028267/r/il/e9a74a/5972446952/il_570xN.5972446952_l8gu.jpg",
+    "https://i.etsystatic.com/41028267/r/il/3f6da7/5972446870/il_570xN.5972446870_e7f8.jpg"
+   ]
   },
   {
    "name": "Cubic Green Fluorite",
    "image": "https://i.etsystatic.com/41028267/r/il/853676/5968090946/il_570xN.5968090946_7qit.jpg",
    "alt": "Cubic Green Fluorite",
    "price": "$595",
-   "url": "https://www.etsy.com/listing/1711976260/cubic-green-fluorite?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1711976260/cubic-green-fluorite?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/853676/5968090946/il_570xN.5968090946_7qit.jpg",
+    "https://i.etsystatic.com/41028267/r/il/64033e/5968090940/il_570xN.5968090940_i13g.jpg",
+    "https://i.etsystatic.com/41028267/r/il/517ab9/5968090944/il_570xN.5968090944_8qxi.jpg",
+    "https://i.etsystatic.com/41028267/r/il/029a48/6016172027/il_570xN.6016172027_lsy2.jpg",
+    "https://i.etsystatic.com/41028267/r/il/c7f4a6/6016172079/il_570xN.6016172079_f5w8.jpg",
+    "https://i.etsystatic.com/41028267/r/il/2a9356/5968091014/il_570xN.5968091014_pusa.jpg",
+    "https://i.etsystatic.com/41028267/r/il/f48313/5968090948/il_570xN.5968090948_rarv.jpg"
+   ]
   },
   {
    "name": "Vivianite in Matrix",
    "image": "https://i.etsystatic.com/41028267/r/il/1398c2/5965131168/il_570xN.5965131168_s3m4.jpg",
    "alt": "Vivianite in Matrix",
    "price": "$675",
-   "url": "https://www.etsy.com/listing/1711262482/vivianite-in-matrix?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1711262482/vivianite-in-matrix?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/1398c2/5965131168/il_570xN.5965131168_s3m4.jpg",
+    "https://i.etsystatic.com/41028267/r/il/956fae/6013211007/il_570xN.6013211007_a9t8.jpg",
+    "https://i.etsystatic.com/41028267/r/il/6a36ed/5965131160/il_570xN.5965131160_fmx0.jpg",
+    "https://i.etsystatic.com/41028267/r/il/3b09a7/6013211013/il_570xN.6013211013_4n4n.jpg",
+    "https://i.etsystatic.com/41028267/r/il/4b245e/5965131166/il_570xN.5965131166_nvpp.jpg"
+   ]
   },
   {
    "name": "Dyscrasite on matrix",
@@ -267,21 +521,46 @@
    "locality": "Bou Azzer Mine Morocco",
    "measurements": "398 g · 23 × 7 × 7 cm",
    "price": "$2,995",
-   "url": "https://www.etsy.com/listing/1693395478/dyscrasite-on-matrix?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1693395478/dyscrasite-on-matrix?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/992e91/5891060412/il_570xN.5891060412_5i5n.jpg",
+    "https://i.etsystatic.com/41028267/r/il/b2fe98/5939132015/il_570xN.5939132015_2q8y.jpg",
+    "https://i.etsystatic.com/41028267/r/il/56d165/5939132009/il_570xN.5939132009_3ebg.jpg",
+    "https://i.etsystatic.com/41028267/r/il/a9b0d9/5891051074/il_570xN.5891051074_jncs.jpg",
+    "https://i.etsystatic.com/41028267/r/il/821fbb/5939132019/il_570xN.5939132019_cray.jpg",
+    "https://i.etsystatic.com/41028267/r/il/ed6711/5891051160/il_570xN.5891051160_8we4.jpg",
+    "https://i.etsystatic.com/41028267/r/il/441d3e/5891051072/il_570xN.5891051072_4a6i.jpg",
+    "https://i.etsystatic.com/41028267/r/il/308d64/5939132157/il_570xN.5939132157_80vw.jpg",
+    "https://i.etsystatic.com/41028267/r/il/2592ab/5891051162/il_570xN.5891051162_af51.jpg",
+    "https://i.etsystatic.com/41028267/r/il/92a5b1/5939132159/il_570xN.5939132159_fhne.jpg"
+   ]
   },
   {
    "name": "Lepidolite in Matrix",
    "image": "https://i.etsystatic.com/41028267/r/il/2b390d/5655614699/il_570xN.5655614699_j4av.jpg",
    "alt": "Lepidolite in Matrix",
    "price": "$245",
-   "url": "https://www.etsy.com/listing/1625383022/leppidolite-in-matrix?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1625383022/leppidolite-in-matrix?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/2b390d/5655614699/il_570xN.5655614699_j4av.jpg",
+    "https://i.etsystatic.com/41028267/r/il/d7d19d/5607527794/il_570xN.5607527794_co07.jpg",
+    "https://i.etsystatic.com/41028267/r/il/e2ab03/5607527858/il_570xN.5607527858_klnn.jpg",
+    "https://i.etsystatic.com/41028267/r/il/556200/5607527862/il_570xN.5607527862_ew5j.jpg"
+   ]
   },
   {
    "name": "Geometric Muscovite with Feldspar",
    "image": "https://i.etsystatic.com/41028267/r/il/97abc2/5655570475/il_570xN.5655570475_4xj0.jpg",
    "alt": "Geometric Muscovite with Feldspar",
    "price": "$560",
-   "url": "https://www.etsy.com/listing/1625366612/geometric-muscovite-with-feldspar?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1625366612/geometric-muscovite-with-feldspar?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/97abc2/5655570475/il_570xN.5655570475_4xj0.jpg",
+    "https://i.etsystatic.com/41028267/r/il/7e6083/5655567129/il_570xN.5655567129_syvp.jpg",
+    "https://i.etsystatic.com/41028267/r/il/b1bac0/5655567131/il_570xN.5655567131_3tpp.jpg",
+    "https://i.etsystatic.com/41028267/r/il/f3177e/5607480022/il_570xN.5607480022_bwr5.jpg",
+    "https://i.etsystatic.com/41028267/r/il/83101f/5655567115/il_570xN.5655567115_5nsg.jpg"
+   ]
   },
   {
    "name": "Chatoyant Malachite",
@@ -290,56 +569,106 @@
    "locality": "Shilu Mine China",
    "measurements": "673 g · 19 × 9 × 5 cm",
    "price": "$1,400",
-   "url": "https://www.etsy.com/listing/1589532441/chatoyant-malachite?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1589532441/chatoyant-malachite?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/a57e0e/5405647278/il_570xN.5405647278_dvkd.jpg",
+    "https://i.etsystatic.com/41028267/r/il/a97cf8/5405589710/il_570xN.5405589710_7qa1.jpg",
+    "https://i.etsystatic.com/41028267/r/il/514fe0/5405589702/il_570xN.5405589702_lv7p.jpg",
+    "https://i.etsystatic.com/41028267/r/il/1f89c5/5405589700/il_570xN.5405589700_9m3v.jpg",
+    "https://i.etsystatic.com/41028267/r/il/1b54ae/5405647366/il_570xN.5405647366_2b72.jpg",
+    "https://i.etsystatic.com/41028267/r/il/0320c3/5405647466/il_570xN.5405647466_8brd.jpg",
+    "https://i.etsystatic.com/41028267/r/il/a2b4db/5453789205/il_570xN.5453789205_k8mr.jpg",
+    "https://i.etsystatic.com/41028267/r/il/6bf2ea/5405647716/il_570xN.5405647716_saj0.jpg"
+   ]
   },
   {
    "name": "Green Cap Tourmaline with Quartz and Muscovite",
    "image": "https://i.etsystatic.com/41028267/r/il/8e6573/5213992399/il_570xN.5213992399_35xx.jpg",
    "alt": "Green Cap Tourmaline with Quartz and Muscovite",
    "price": "$70",
-   "url": "https://www.etsy.com/listing/1539892355/green-cap-tourmaline-with-quartz-and?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1539892355/green-cap-tourmaline-with-quartz-and?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/8e6573/5213992399/il_570xN.5213992399_35xx.jpg",
+    "https://i.etsystatic.com/41028267/r/il/73fd10/5213992503/il_570xN.5213992503_4d5l.jpg",
+    "https://i.etsystatic.com/41028267/r/il/d0ea72/5165761402/il_570xN.5165761402_a1t8.jpg"
+   ]
   },
   {
    "name": "Topaz with Smoky Quartz",
    "image": "https://i.etsystatic.com/41028267/r/il/9c51bf/5175739891/il_570xN.5175739891_oilh.jpg",
    "alt": "Topaz with Smoky Quartz",
    "price": "$150",
-   "url": "https://www.etsy.com/listing/1531679593/topaz-with-smoky-quartz?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1531679593/topaz-with-smoky-quartz?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/9c51bf/5175739891/il_570xN.5175739891_oilh.jpg",
+    "https://i.etsystatic.com/41028267/r/il/d35e05/5175740517/il_570xN.5175740517_rfqc.jpg",
+    "https://i.etsystatic.com/41028267/r/il/2455a1/5127514676/il_570xN.5127514676_i9y6.jpg",
+    "https://i.etsystatic.com/41028267/r/il/1981a6/5127514728/il_570xN.5127514728_4mme.jpg"
+   ]
   },
   {
    "name": "Topaz with Smoky Quartz",
    "image": "https://i.etsystatic.com/41028267/r/il/b28d33/5175735923/il_570xN.5175735923_gv9v.jpg",
    "alt": "Topaz with Smoky Quartz",
    "price": "$95",
-   "url": "https://www.etsy.com/listing/1531677463/topaz-with-smoky-quartz?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1531677463/topaz-with-smoky-quartz?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/b28d33/5175735923/il_570xN.5175735923_gv9v.jpg",
+    "https://i.etsystatic.com/41028267/r/il/db6818/5175735171/il_570xN.5175735171_ldhm.jpg",
+    "https://i.etsystatic.com/41028267/r/il/cd5b83/5175735827/il_570xN.5175735827_q5ml.jpg"
+   ]
   },
   {
    "name": "Green Cap Tourmaline with Quartz and Feldspar",
    "image": "https://i.etsystatic.com/41028267/r/il/5b7a02/5172796766/il_570xN.5172796766_pkqv.jpg",
    "alt": "Green Cap Tourmaline with Quartz and Feldspar",
    "price": "$60",
-   "url": "https://www.etsy.com/listing/1527159156/green-cap-tourmaline-with-quartz-and?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1527159156/green-cap-tourmaline-with-quartz-and?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/5b7a02/5172796766/il_570xN.5172796766_pkqv.jpg",
+    "https://i.etsystatic.com/41028267/r/il/ec447f/5221029909/il_570xN.5221029909_9ttv.jpg",
+    "https://i.etsystatic.com/41028267/r/il/7031e3/5221030015/il_570xN.5221030015_lrkd.jpg",
+    "https://i.etsystatic.com/41028267/r/il/b956a3/5172797064/il_570xN.5172797064_hne9.jpg"
+   ]
   },
   {
    "name": "Topaz with Smoky Quartz",
    "image": "https://i.etsystatic.com/41028267/r/il/fedad6/5120833230/il_570xN.5120833230_c895.jpg",
    "alt": "Topaz with Smoky Quartz",
    "price": "$150",
-   "url": "https://www.etsy.com/listing/1516049630/topaz-with-smoky-quartz?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1516049630/topaz-with-smoky-quartz?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/fedad6/5120833230/il_570xN.5120833230_c895.jpg",
+    "https://i.etsystatic.com/41028267/r/il/fa3a56/5169060235/il_570xN.5169060235_6h3p.jpg",
+    "https://i.etsystatic.com/41028267/r/il/a4f48a/5169060385/il_570xN.5169060385_gcrt.jpg",
+    "https://i.etsystatic.com/41028267/r/il/e6af86/5120833670/il_570xN.5120833670_oqp0.jpg"
+   ]
   },
   {
    "name": "Large Glassy Selenite Crystal",
    "image": "https://i.etsystatic.com/41028267/r/il/da1648/5001705165/il_570xN.5001705165_h37t.jpg",
    "alt": "Large Glassy Selenite Crystal",
    "price": "$175",
-   "url": "https://www.etsy.com/listing/1492720339/large-glassy-selenite-crystal?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1492720339/large-glassy-selenite-crystal?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/da1648/5001705165/il_570xN.5001705165_h37t.jpg",
+    "https://i.etsystatic.com/41028267/r/il/87fbba/4953437848/il_570xN.4953437848_ojsm.jpg",
+    "https://i.etsystatic.com/41028267/r/il/a5c738/5001703313/il_570xN.5001703313_jy2e.jpg"
+   ]
   },
   {
    "name": "Quartz with Feldspar",
    "image": "https://i.etsystatic.com/41028267/r/il/1e4fc1/4953080995/il_570xN.4953080995_ol6h.jpg",
    "alt": "Quartz with Feldspar",
    "price": "$395",
-   "url": "https://www.etsy.com/listing/1481783539/quartz-with-feldspar?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1481783539/quartz-with-feldspar?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/1e4fc1/4953080995/il_570xN.4953080995_ol6h.jpg",
+    "https://i.etsystatic.com/41028267/r/il/3aa2fc/4904811234/il_570xN.4904811234_4vbp.jpg",
+    "https://i.etsystatic.com/41028267/r/il/0fc97b/4904811246/il_570xN.4904811246_4fqe.jpg",
+    "https://i.etsystatic.com/41028267/r/il/e88093/4953081035/il_570xN.4953081035_5jjc.jpg",
+    "https://i.etsystatic.com/41028267/r/il/933374/4904811280/il_570xN.4904811280_90mg.jpg"
+   ]
   },
   {
    "name": "Quartz with Epidote",
@@ -348,35 +677,79 @@
    "locality": "Skardu Pakistan",
    "measurements": "8.8 kg",
    "price": "$749",
-   "url": "https://www.etsy.com/listing/1478315247/quartz-cluster-with-epidote-inclusions?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1478315247/quartz-cluster-with-epidote-inclusions?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/f059e4/4889941824/il_570xN.4889941824_2icw.jpg",
+    "https://i.etsystatic.com/41028267/r/il/780d97/4889941826/il_570xN.4889941826_bpqi.jpg",
+    "https://i.etsystatic.com/41028267/r/il/4e5de6/4938211611/il_570xN.4938211611_hsgo.jpg",
+    "https://i.etsystatic.com/41028267/r/il/04d9af/4889941836/il_570xN.4889941836_bi4z.jpg",
+    "https://i.etsystatic.com/41028267/r/il/107429/4938211615/il_570xN.4938211615_lgnk.jpg",
+    "https://i.etsystatic.com/41028267/r/il/fb3d9f/4889941950/il_570xN.4889941950_r2i3.jpg",
+    "https://i.etsystatic.com/41028267/r/il/fdc53f/4938211693/il_570xN.4938211693_mmwz.jpg",
+    "https://i.etsystatic.com/41028267/r/il/bb7b01/4938211697/il_570xN.4938211697_m2jf.jpg",
+    "https://i.etsystatic.com/41028267/r/il/47c09d/4938211597/il_570xN.4938211597_l9b9.jpg"
+   ]
   },
   {
    "name": "Twinned Zircon in Matrix",
    "image": "https://i.etsystatic.com/41028267/r/il/a2c90d/4929523509/il_570xN.4929523509_duhh.jpg",
    "alt": "Twinned Zircon in Matrix",
    "price": "$275",
-   "url": "https://www.etsy.com/listing/1476311251/twinned-zircon-in-matrix?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1476311251/twinned-zircon-in-matrix?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/a2c90d/4929523509/il_570xN.4929523509_duhh.jpg",
+    "https://i.etsystatic.com/41028267/r/il/02d05c/4929522587/il_570xN.4929522587_krjk.jpg",
+    "https://i.etsystatic.com/41028267/r/il/726401/4881249332/il_570xN.4881249332_qwqw.jpg"
+   ]
   },
   {
    "name": "Fluorite with Dogtooth Calcite",
    "image": "https://i.etsystatic.com/41028267/r/il/724fe1/4881233204/il_570xN.4881233204_9n4a.jpg",
    "alt": "Fluorite with Dogtooth Calcite",
    "price": "$225",
-   "url": "https://www.etsy.com/listing/1476301641/fluorite-with-dogtooth-calcite?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1476301641/fluorite-with-dogtooth-calcite?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/724fe1/4881233204/il_570xN.4881233204_9n4a.jpg",
+    "https://i.etsystatic.com/41028267/r/il/bf343c/4881233190/il_570xN.4881233190_en9g.jpg",
+    "https://i.etsystatic.com/41028267/r/il/86fe9f/4881233316/il_570xN.4881233316_gh2d.jpg",
+    "https://i.etsystatic.com/41028267/r/il/6884bd/4881233194/il_570xN.4881233194_ijwk.jpg",
+    "https://i.etsystatic.com/41028267/r/il/041550/4929506135/il_570xN.4929506135_k2a1.jpg",
+    "https://i.etsystatic.com/41028267/r/il/6bb467/4881233188/il_570xN.4881233188_4r33.jpg",
+    "https://i.etsystatic.com/41028267/r/il/5d0349/4929506023/il_570xN.4929506023_2sjv.jpg",
+    "https://i.etsystatic.com/41028267/r/il/fee628/4929506035/il_570xN.4929506035_c3xk.jpg",
+    "https://i.etsystatic.com/41028267/r/il/d25afa/4881233312/il_570xN.4881233312_mm9q.jpg",
+    "https://i.etsystatic.com/41028267/r/il/745281/4881233314/il_570xN.4881233314_49j9.jpg"
+   ]
   },
   {
    "name": "Cubic Fluorite",
    "image": "https://i.etsystatic.com/41028267/r/il/2745e9/4880104334/il_570xN.4880104334_6tpr.jpg",
    "alt": "Cubic Fluorite",
    "price": "$350",
-   "url": "https://www.etsy.com/listing/1476012653/cubic-fluorite?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1476012653/cubic-fluorite?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/2745e9/4880104334/il_570xN.4880104334_6tpr.jpg",
+    "https://i.etsystatic.com/41028267/r/il/f05bc5/4928368651/il_570xN.4928368651_k569.jpg",
+    "https://i.etsystatic.com/41028267/r/il/15404c/4928368669/il_570xN.4928368669_svf4.jpg",
+    "https://i.etsystatic.com/41028267/r/il/2a4a23/4880096774/il_570xN.4880096774_o002.jpg",
+    "https://i.etsystatic.com/41028267/r/il/be8302/4928368811/il_570xN.4928368811_e5ae.jpg",
+    "https://i.etsystatic.com/41028267/r/il/f2881d/4928368837/il_570xN.4928368837_t3yh.jpg",
+    "https://i.etsystatic.com/41028267/r/il/b03123/4880096882/il_570xN.4880096882_bur6.jpg",
+    "https://i.etsystatic.com/41028267/r/il/78f711/4880096896/il_570xN.4880096896_6pfh.jpg",
+    "https://i.etsystatic.com/41028267/r/il/f5a59a/4880096884/il_570xN.4880096884_2v33.jpg",
+    "https://i.etsystatic.com/41028267/r/il/8bc4e8/4939822897/il_570xN.4939822897_7c53.jpg"
+   ]
   },
   {
    "name": "Quartz with Feldspar and Garnet",
    "image": "https://i.etsystatic.com/41028267/r/il/100801/4928146059/il_570xN.4928146059_sum8.jpg",
    "alt": "Quartz with Feldspar and Garnet",
    "price": "$495",
-   "url": "https://www.etsy.com/listing/1475954573/quartz-with-feldspar-and-garnet?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1475954573/quartz-with-feldspar-and-garnet?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/100801/4928146059/il_570xN.4928146059_sum8.jpg",
+    "https://i.etsystatic.com/41028267/r/il/c26e79/4879872990/il_570xN.4879872990_aa4k.jpg"
+   ]
   },
   {
    "name": "Tourmalinated Cathedral Quartz",
@@ -385,114 +758,283 @@
    "locality": "Chapko Mine Pakistan",
    "measurements": "740 g",
    "price": "$1,100",
-   "url": "https://www.etsy.com/listing/1475937179/tourmalinated-cathedral-quartz?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1475937179/tourmalinated-cathedral-quartz?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/c9aa92/4879726232/il_570xN.4879726232_331b.jpg",
+    "https://i.etsystatic.com/41028267/r/il/cd0a99/4879726204/il_570xN.4879726204_o1u2.jpg",
+    "https://i.etsystatic.com/41028267/r/il/966aa5/4879726216/il_570xN.4879726216_l05g.jpg",
+    "https://i.etsystatic.com/41028267/r/il/95e3cf/4879726228/il_570xN.4879726228_occn.jpg",
+    "https://i.etsystatic.com/41028267/r/il/09aaab/4927997731/il_570xN.4927997731_hq70.jpg",
+    "https://i.etsystatic.com/41028267/r/il/4ac0e5/4927997425/il_570xN.4927997425_ioxf.jpg",
+    "https://i.etsystatic.com/41028267/r/il/9170e8/4879726476/il_570xN.4879726476_c5ba.jpg",
+    "https://i.etsystatic.com/41028267/r/il/98c615/4927997747/il_570xN.4927997747_dh5z.jpg",
+    "https://i.etsystatic.com/41028267/r/il/e9bb62/4891579098/il_570xN.4891579098_dlji.jpg",
+    "https://i.etsystatic.com/41028267/r/il/e954fd/4939847327/il_570xN.4939847327_kehd.jpg"
+   ]
   },
   {
    "name": "Fluorite with Dogtooth Calcite",
    "image": "https://i.etsystatic.com/41028267/r/il/b9b19e/4926570507/il_570xN.4926570507_lgus.jpg",
    "alt": "Fluorite with Dogtooth Calcite",
    "price": "$100",
-   "url": "https://www.etsy.com/listing/1475601687/fluorite-with-dogtooth-calcite?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1475601687/fluorite-with-dogtooth-calcite?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/b9b19e/4926570507/il_570xN.4926570507_lgus.jpg",
+    "https://i.etsystatic.com/41028267/r/il/fffca6/4878301374/il_570xN.4878301374_e2yb.jpg",
+    "https://i.etsystatic.com/41028267/r/il/d485f0/4878301380/il_570xN.4878301380_3i6d.jpg",
+    "https://i.etsystatic.com/41028267/r/il/9cceeb/4878301378/il_570xN.4878301378_5lir.jpg",
+    "https://i.etsystatic.com/41028267/r/il/e3b6dd/4926570515/il_570xN.4926570515_nkz1.jpg",
+    "https://i.etsystatic.com/41028267/r/il/b5a0c0/4878301382/il_570xN.4878301382_4rap.jpg"
+   ]
   },
   {
    "name": "Quartz with Feldspar",
    "image": "https://i.etsystatic.com/41028267/r/il/e3421b/4886037640/il_570xN.4886037640_eagr.jpg",
    "alt": "Quartz with Feldspar",
    "price": "$380",
-   "url": "https://www.etsy.com/listing/1463270524/quartz-with-feldspar?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1463270524/quartz-with-feldspar?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/e3421b/4886037640/il_570xN.4886037640_eagr.jpg",
+    "https://i.etsystatic.com/41028267/r/il/2c7568/4934308661/il_570xN.4934308661_s2b5.jpg",
+    "https://i.etsystatic.com/41028267/r/il/cd41ab/4934307179/il_570xN.4934307179_4k2y.jpg",
+    "https://i.etsystatic.com/41028267/r/il/b28686/4934456183/il_570xN.4934456183_d3q2.jpg",
+    "https://i.etsystatic.com/41028267/r/il/e99bab/4934456267/il_570xN.4934456267_bit4.jpg"
+   ]
   },
   {
    "name": "Quartz with Feldspar and Garnet",
    "image": "https://i.etsystatic.com/41028267/r/il/cf4708/4928121921/il_570xN.4928121921_1fnv.jpg",
    "alt": "Quartz with Feldspar and Garnet",
    "price": "$600",
-   "url": "https://www.etsy.com/listing/1461755846/quartz-with-feldspar-and-garnet?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1461755846/quartz-with-feldspar-and-garnet?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/cf4708/4928121921/il_570xN.4928121921_1fnv.jpg",
+    "https://i.etsystatic.com/41028267/r/il/6908f9/4928121949/il_570xN.4928121949_nzls.jpg",
+    "https://i.etsystatic.com/41028267/r/il/55d84f/4928121965/il_570xN.4928121965_h9ml.jpg",
+    "https://i.etsystatic.com/41028267/r/il/6657a8/4928122135/il_570xN.4928122135_rg5m.jpg",
+    "https://i.etsystatic.com/41028267/r/il/5a81f6/4928121961/il_570xN.4928121961_907v.jpg",
+    "https://i.etsystatic.com/41028267/r/il/1f52b0/4879850322/il_570xN.4879850322_ay0n.jpg",
+    "https://i.etsystatic.com/41028267/r/il/00a9ec/4879850466/il_570xN.4879850466_l9zo.jpg",
+    "https://i.etsystatic.com/41028267/r/il/e5c2d3/4879850324/il_570xN.4879850324_h000.jpg"
+   ]
   },
   {
    "name": "Quartz with Feldspar and Garnet",
    "image": "https://i.etsystatic.com/41028267/r/il/5dab9c/4879816868/il_570xN.4879816868_8tb3.jpg",
    "alt": "Quartz with Feldspar and Garnet",
    "price": "$350",
-   "url": "https://www.etsy.com/listing/1461752230/quartz-with-feldspar-and-garnet?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1461752230/quartz-with-feldspar-and-garnet?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/5dab9c/4879816868/il_570xN.4879816868_8tb3.jpg",
+    "https://i.etsystatic.com/41028267/r/il/7497f4/4879807498/il_570xN.4879807498_34x9.jpg",
+    "https://i.etsystatic.com/41028267/r/il/7bf0b4/4879807494/il_570xN.4879807494_ccit.jpg",
+    "https://i.etsystatic.com/41028267/r/il/62f49b/4928079453/il_570xN.4928079453_1ne4.jpg",
+    "https://i.etsystatic.com/41028267/r/il/722228/4879807502/il_570xN.4879807502_fjx6.jpg"
+   ]
   },
   {
    "name": "Rhodochrosite Blade",
    "image": "https://i.etsystatic.com/41028267/r/il/d431ab/4705866412/il_570xN.4705866412_ggld.jpg",
    "alt": "Rhodochrosite Blade",
    "price": "$600",
-   "url": "https://www.etsy.com/listing/1418502206/rhodochrosite-blade?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop"
+   "url": "https://www.etsy.com/listing/1418502206/rhodochrosite-blade?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/d431ab/4705866412/il_570xN.4705866412_ggld.jpg",
+    "https://i.etsystatic.com/41028267/r/il/3cec9f/4695803262/il_570xN.4695803262_jx5a.jpg",
+    "https://i.etsystatic.com/41028267/r/il/9f51c5/4695804348/il_570xN.4695804348_j3k0.jpg",
+    "https://i.etsystatic.com/41028267/r/il/48c354/4744031155/il_570xN.4744031155_ioau.jpg",
+    "https://i.etsystatic.com/41028267/r/il/8be372/4695803244/il_570xN.4695803244_mxvr.jpg"
+   ]
   }
  ],
  "gallery": [
   {
    "name": "Specular Hematite on Quartz",
    "image": "https://i.etsystatic.com/41028267/r/il/b77372/6020388837/il_570xN.6020388837_6n2p.jpg",
-   "alt": "Specular Hematite on Quartz"
+   "alt": "Specular Hematite on Quartz",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/b77372/6020388837/il_570xN.6020388837_6n2p.jpg",
+    "https://i.etsystatic.com/41028267/r/il/f24641/6020388845/il_570xN.6020388845_4bhl.jpg",
+    "https://i.etsystatic.com/41028267/r/il/7d5cdf/6020388897/il_570xN.6020388897_gypu.jpg",
+    "https://i.etsystatic.com/41028267/r/il/0920c8/6020388903/il_570xN.6020388903_b13e.jpg",
+    "https://i.etsystatic.com/41028267/r/il/3336d1/6020388849/il_570xN.6020388849_m6jz.jpg",
+    "https://i.etsystatic.com/41028267/r/il/91665c/6020388843/il_570xN.6020388843_4cd1.jpg",
+    "https://i.etsystatic.com/41028267/r/il/eba7dc/6020388835/il_570xN.6020388835_2lhl.jpg",
+    "https://i.etsystatic.com/41028267/r/il/b082ca/6020388905/il_570xN.6020388905_os4n.jpg",
+    "https://i.etsystatic.com/41028267/r/il/45bcd5/5972308852/il_570xN.5972308852_oc76.jpg",
+    "https://i.etsystatic.com/41028267/r/il/ef7af2/6020388899/il_570xN.6020388899_3g0t.jpg"
+   ]
   },
   {
    "name": "Green and Lavender Fluorite",
    "image": "https://i.etsystatic.com/41028267/r/il/086676/6016146859/il_570xN.6016146859_2r2y.jpg",
-   "alt": "Green and Lavender Fluorite"
+   "alt": "Green and Lavender Fluorite",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/086676/6016146859/il_570xN.6016146859_2r2y.jpg",
+    "https://i.etsystatic.com/41028267/r/il/ae0176/6016146861/il_570xN.6016146861_in63.jpg",
+    "https://i.etsystatic.com/41028267/r/il/a8620d/6016146869/il_570xN.6016146869_7h9t.jpg",
+    "https://i.etsystatic.com/41028267/r/il/1b7813/6016146873/il_570xN.6016146873_otns.jpg",
+    "https://i.etsystatic.com/41028267/r/il/c55c01/6016146871/il_570xN.6016146871_9hnd.jpg",
+    "https://i.etsystatic.com/41028267/r/il/0a85a6/5968065620/il_570xN.5968065620_tq46.jpg"
+   ]
   },
   {
    "name": "Pyrite in Matrix",
    "image": "https://i.etsystatic.com/41028267/r/il/067e92/6006917671/il_570xN.6006917671_rnpa.jpg",
-   "alt": "Pyrite in Matrix"
+   "alt": "Pyrite in Matrix",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/067e92/6006917671/il_570xN.6006917671_rnpa.jpg",
+    "https://i.etsystatic.com/41028267/r/il/24cea6/5958842404/il_570xN.5958842404_jvcz.jpg",
+    "https://i.etsystatic.com/41028267/r/il/f6f71a/5958842414/il_570xN.5958842414_gw89.jpg",
+    "https://i.etsystatic.com/41028267/r/il/ac0f0e/5958842420/il_570xN.5958842420_5rfo.jpg",
+    "https://i.etsystatic.com/41028267/r/il/40da66/5958842422/il_570xN.5958842422_g6rm.jpg"
+   ]
   },
   {
    "name": "Mesolite on Stilbite",
    "image": "https://i.etsystatic.com/41028267/r/il/9bbea4/5605878292/il_570xN.5605878292_nqua.jpg",
-   "alt": "Mesolite on Stilbite"
+   "alt": "Mesolite on Stilbite",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/9bbea4/5605878292/il_570xN.5605878292_nqua.jpg",
+    "https://i.etsystatic.com/41028267/r/il/ca4e54/5605878294/il_570xN.5605878294_itjh.jpg",
+    "https://i.etsystatic.com/41028267/r/il/6cddf5/5605878290/il_570xN.5605878290_ef31.jpg",
+    "https://i.etsystatic.com/41028267/r/il/264293/5653965559/il_570xN.5653965559_7k2n.jpg"
+   ]
   },
   {
    "name": "Schorl and Muscovite in Matrix",
    "image": "https://i.etsystatic.com/41028267/r/il/8bdca8/5655482755/il_570xN.5655482755_1kgu.jpg",
-   "alt": "Schorl and Muscovite in Matrix"
+   "alt": "Schorl and Muscovite in Matrix",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/8bdca8/5655482755/il_570xN.5655482755_1kgu.jpg",
+    "https://i.etsystatic.com/41028267/r/il/03c8d0/5607395910/il_570xN.5607395910_2hmt.jpg",
+    "https://i.etsystatic.com/41028267/r/il/513893/5607395916/il_570xN.5607395916_sil2.jpg",
+    "https://i.etsystatic.com/41028267/r/il/00de3c/5607395912/il_570xN.5607395912_akny.jpg",
+    "https://i.etsystatic.com/41028267/r/il/7eaacd/5607395918/il_570xN.5607395918_o9g8.jpg",
+    "https://i.etsystatic.com/41028267/r/il/569cc5/5607395920/il_570xN.5607395920_91sx.jpg",
+    "https://i.etsystatic.com/41028267/r/il/a6e974/5607395924/il_570xN.5607395924_e8ym.jpg",
+    "https://i.etsystatic.com/41028267/r/il/92066e/5655482897/il_570xN.5655482897_n03g.jpg",
+    "https://i.etsystatic.com/41028267/r/il/ca8ff8/5607396074/il_570xN.5607396074_7cyl.jpg"
+   ]
   },
   {
    "name": "Square Apophyllite in Matrix",
    "image": "https://i.etsystatic.com/41028267/r/il/aefc0d/5461642673/il_570xN.5461642673_hc5w.jpg",
-   "alt": "Square Apophyllite in Matrix"
+   "alt": "Square Apophyllite in Matrix",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/aefc0d/5461642673/il_570xN.5461642673_hc5w.jpg",
+    "https://i.etsystatic.com/41028267/r/il/7d163d/5461642633/il_570xN.5461642633_m228.jpg",
+    "https://i.etsystatic.com/41028267/r/il/3db28a/5461642701/il_570xN.5461642701_j6tk.jpg",
+    "https://i.etsystatic.com/41028267/r/il/3b67e3/5413509196/il_570xN.5413509196_5k6k.jpg"
+   ]
   },
   {
    "name": "Geometric Muscovite with Feldspar",
    "image": "https://i.etsystatic.com/41028267/r/il/069011/5331536388/il_570xN.5331536388_9nbt.jpg",
-   "alt": "Geometric Muscovite with Feldspar"
+   "alt": "Geometric Muscovite with Feldspar",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/069011/5331536388/il_570xN.5331536388_9nbt.jpg",
+    "https://i.etsystatic.com/41028267/r/il/e853cf/5331284760/il_570xN.5331284760_2dwb.jpg",
+    "https://i.etsystatic.com/41028267/r/il/51dbbd/5379454467/il_570xN.5379454467_bzcx.jpg",
+    "https://i.etsystatic.com/41028267/r/il/bd415e/5379454465/il_570xN.5379454465_qmys.jpg",
+    "https://i.etsystatic.com/41028267/r/il/c8e1eb/5331284738/il_570xN.5331284738_62ob.jpg"
+   ]
   },
   {
    "name": "Black Chalcedony Stalactite with Honey Calcite Spar and a Stilbite Bowtie",
    "image": "https://i.etsystatic.com/41028267/r/il/90e399/5698175025/il_570xN.5698175025_e26u.jpg",
-   "alt": "Black Chalcedony Stalactite with Honey Calcite Spar and a Stilbite Bowtie"
+   "alt": "Black Chalcedony Stalactite with Honey Calcite Spar and a Stilbite Bowtie",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/90e399/5698175025/il_570xN.5698175025_e26u.jpg",
+    "https://i.etsystatic.com/41028267/r/il/16815e/5650110106/il_570xN.5650110106_ncd3.jpg",
+    "https://i.etsystatic.com/41028267/r/il/ea3cb5/5698175055/il_570xN.5698175055_3767.jpg",
+    "https://i.etsystatic.com/41028267/r/il/cc13be/5650110110/il_570xN.5650110110_6xq1.jpg",
+    "https://i.etsystatic.com/41028267/r/il/e51a3f/5698175051/il_570xN.5698175051_1o1i.jpg",
+    "https://i.etsystatic.com/41028267/r/il/08a356/5698175053/il_570xN.5698175053_4b9u.jpg",
+    "https://i.etsystatic.com/41028267/r/il/befae6/5698175163/il_570xN.5698175163_5ey8.jpg",
+    "https://i.etsystatic.com/41028267/r/il/6f6b6d/5650110192/il_570xN.5650110192_j2l3.jpg"
+   ]
   },
   {
    "name": "Honey Calcite with Stilbite and Apophyllite in Matrix",
    "image": "https://i.etsystatic.com/41028267/r/il/2379b8/5127628114/il_570xN.5127628114_kkoy.jpg",
-   "alt": "Honey Calcite with Stilbite and Apophyllite in Matrix"
+   "alt": "Honey Calcite with Stilbite and Apophyllite in Matrix",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/2379b8/5127628114/il_570xN.5127628114_kkoy.jpg",
+    "https://i.etsystatic.com/41028267/r/il/99f4a7/5175853521/il_570xN.5175853521_kzpt.jpg",
+    "https://i.etsystatic.com/41028267/r/il/672369/5127628120/il_570xN.5127628120_orwm.jpg",
+    "https://i.etsystatic.com/41028267/r/il/aa3ac6/5175853523/il_570xN.5175853523_g9si.jpg",
+    "https://i.etsystatic.com/41028267/r/il/f7b924/5175853513/il_570xN.5175853513_rgth.jpg",
+    "https://i.etsystatic.com/41028267/r/il/b4c098/5127628116/il_570xN.5127628116_a155.jpg",
+    "https://i.etsystatic.com/41028267/r/il/b0aaed/5175853621/il_570xN.5175853621_ol32.jpg"
+   ]
   },
   {
    "name": "Stalactite with Stilbite and Honey Calcite",
    "image": "https://i.etsystatic.com/41028267/r/il/2ba574/4940305593/il_570xN.4940305593_a3dx.jpg",
-   "alt": "Stalactite with Stilbite and Honey Calcite"
+   "alt": "Stalactite with Stilbite and Honey Calcite",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/2ba574/4940305593/il_570xN.4940305593_a3dx.jpg",
+    "https://i.etsystatic.com/41028267/r/il/bbc37b/4892065860/il_570xN.4892065860_tngx.jpg",
+    "https://i.etsystatic.com/41028267/r/il/11854d/4892039886/il_570xN.4892039886_5kv4.jpg",
+    "https://i.etsystatic.com/41028267/r/il/829589/4940305681/il_570xN.4940305681_khe8.jpg",
+    "https://i.etsystatic.com/41028267/r/il/9986dc/4940306479/il_570xN.4940306479_sv0x.jpg",
+    "https://i.etsystatic.com/41028267/r/il/21b31b/4892040850/il_570xN.4892040850_pocy.jpg",
+    "https://i.etsystatic.com/41028267/r/il/0d63eb/4892040786/il_570xN.4892040786_5qa9.jpg",
+    "https://i.etsystatic.com/41028267/r/il/7194a8/4892040832/il_570xN.4892040832_3mwr.jpg",
+    "https://i.etsystatic.com/41028267/r/il/434939/4892105374/il_570xN.4892105374_9g9p.jpg",
+    "https://i.etsystatic.com/41028267/r/il/77ec21/4892107034/il_570xN.4892107034_smyt.jpg"
+   ]
   },
   {
    "name": "Fluorite with Dogtooth Calcite",
    "image": "https://i.etsystatic.com/41028267/r/il/4e64a6/4890001042/il_570xN.4890001042_4b28.jpg",
-   "alt": "Fluorite with Dogtooth Calcite"
+   "alt": "Fluorite with Dogtooth Calcite",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/4e64a6/4890001042/il_570xN.4890001042_4b28.jpg",
+    "https://i.etsystatic.com/41028267/r/il/d0e3f6/4938270333/il_570xN.4938270333_97fp.jpg",
+    "https://i.etsystatic.com/41028267/r/il/d75ab3/4938270349/il_570xN.4938270349_mld7.jpg",
+    "https://i.etsystatic.com/41028267/r/il/259c65/4890001036/il_570xN.4890001036_9zu7.jpg",
+    "https://i.etsystatic.com/41028267/r/il/9fbef9/4938270343/il_570xN.4938270343_h9dz.jpg",
+    "https://i.etsystatic.com/41028267/r/il/fef7e6/4891573612/il_570xN.4891573612_cvt2.jpg",
+    "https://i.etsystatic.com/41028267/r/il/e08296/4939842001/il_570xN.4939842001_9wcl.jpg"
+   ]
   },
   {
    "name": "Chalcedony Stalactite with Apophyllite and Stilbite",
    "image": "https://i.etsystatic.com/41028267/r/il/fc9b00/4875868085/il_570xN.4875868085_2nl0.jpg",
-   "alt": "Chalcedony Stalactite with Apophyllite and Stilbite"
+   "alt": "Chalcedony Stalactite with Apophyllite and Stilbite",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/fc9b00/4875868085/il_570xN.4875868085_2nl0.jpg",
+    "https://i.etsystatic.com/41028267/r/il/9b51f9/4827604732/il_570xN.4827604732_r2vw.jpg",
+    "https://i.etsystatic.com/41028267/r/il/256260/4827604726/il_570xN.4827604726_4xwn.jpg"
+   ]
   },
   {
    "name": "Lepidolite with Watermelon Tourmaline",
    "image": "https://i.etsystatic.com/41028267/r/il/30bbaa/4834519370/il_570xN.4834519370_qhlt.jpg",
-   "alt": "Lepidolite with Watermelon Tourmaline"
+   "alt": "Lepidolite with Watermelon Tourmaline",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/30bbaa/4834519370/il_570xN.4834519370_qhlt.jpg",
+    "https://i.etsystatic.com/41028267/r/il/7883fb/4882775469/il_570xN.4882775469_hzpn.jpg",
+    "https://i.etsystatic.com/41028267/r/il/0aa05f/4882775501/il_570xN.4882775501_oz9w.jpg",
+    "https://i.etsystatic.com/41028267/r/il/780105/4834516554/il_570xN.4834516554_bnwy.jpg",
+    "https://i.etsystatic.com/41028267/r/il/ae3f6b/4882775507/il_570xN.4882775507_lgtg.jpg",
+    "https://i.etsystatic.com/41028267/r/il/f6f37e/4882775499/il_570xN.4882775499_1gpv.jpg"
+   ]
   },
   {
    "name": "Large Aquamarine",
    "image": "https://i.etsystatic.com/41028267/r/il/2d9cd7/4741342723/il_570xN.4741342723_oxzd.jpg",
-   "alt": "Large Aquamarine"
+   "alt": "Large Aquamarine",
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/2d9cd7/4741342723/il_570xN.4741342723_oxzd.jpg",
+    "https://i.etsystatic.com/41028267/r/il/fd46de/4741348007/il_570xN.4741348007_a9ov.jpg",
+    "https://i.etsystatic.com/41028267/r/il/9f17d0/4693120108/il_570xN.4693120108_kqzt.jpg",
+    "https://i.etsystatic.com/41028267/r/il/ff44a1/4693118672/il_570xN.4693118672_dnce.jpg",
+    "https://i.etsystatic.com/41028267/r/il/1f5380/4693120976/il_570xN.4693120976_d7ev.jpg",
+    "https://i.etsystatic.com/41028267/r/il/cd703c/4741340447/il_570xN.4741340447_1ksf.jpg"
+   ]
   }
  ]
 }

@@ -1,13 +1,13 @@
 {
  "version": 1,
- "generated_at": "2026-09-14T19:05:58Z",
+ "generated_at": "2026-09-15T03:59:51Z",
  "shop_url": "https://www.etsy.com/shop/HunterMinerals",
  "for_sale": [
   {
    "name": "Selenite",
    "image": "https://i.etsystatic.com/41028267/r/il/8781b5/8518893976/il_570xN.8518893976_mvc9.jpg",
-   "alt": "Selenite, Naica Mine, Bermejillo Mexico, 975 g, 14 x 11 x 5 cm | Collector Grade | Large Cabinet",
-   "locality": "Naica Mine, Bermejillo Mexico",
+   "alt": "Selenite, Naica Mine, Chihuahua, Mexico, 975 g, 14 x 11 x 5 cm | Collector Grade | Large Cabinet",
+   "locality": "Naica Mine, Chihuahua, Mexico",
    "measurements": "975 g · 14 × 11 × 5 cm",
    "price": "$375",
    "url": "https://www.etsy.com/listing/4574677172/selenite-naica-mine-bermejillo-mexico?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
@@ -25,8 +25,8 @@
   {
    "name": "Selenite",
    "image": "https://i.etsystatic.com/41028267/r/il/43dc37/8518884584/il_570xN.8518884584_s5p9.jpg",
-   "alt": "Selenite, Naica Mine Mexico, 2.9 kg, 29 x 19 x 12 cm | Statement Piece | Large Cabinet",
-   "locality": "Naica Mine Mexico",
+   "alt": "Selenite, Naica Mine, Mexico, 2.9 kg, 29 x 19 x 12 cm | Statement Piece | Large Cabinet",
+   "locality": "Naica Mine, Mexico",
    "measurements": "2.9 kg · 29 × 19 × 12 cm",
    "price": "$600",
    "url": "https://www.etsy.com/listing/4574675798/selenite-naica-mine-mexico-29-kg-29-x-19?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
@@ -44,8 +44,8 @@
   {
    "name": "Selenite",
    "image": "https://i.etsystatic.com/41028267/r/il/3e96b8/8566745025/il_570xN.8566745025_lrur.jpg",
-   "alt": "Selenite, Naica Mine, Bermejillo Mexico, 1.3 kg, 14 x 13 x 20 cm | Museum Grade | Large Cabinet",
-   "locality": "Naica Mine, Bermejillo Mexico",
+   "alt": "Selenite, Naica Mine, Chihuahua, Mexico, 1.3 kg, 14 x 13 x 20 cm | Museum Grade | Large Cabinet",
+   "locality": "Naica Mine, Chihuahua, Mexico",
    "measurements": "1.3 kg · 14 × 13 × 20 cm",
    "price": "$700",
    "url": "https://www.etsy.com/listing/4574674432/selenite-naica-mine-bermejillo-mexico-13?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
@@ -271,9 +271,11 @@
    ]
   },
   {
-   "name": "Cabinet Size Fairy Forest Epidote",
+   "name": "Fairy Forest Epidote",
    "image": "https://i.etsystatic.com/41028267/r/il/d18d2b/7730109882/il_570xN.7730109882_hvhd.jpg",
-   "alt": "Cabinet Size Fairy Forest Epidote",
+   "alt": "Fairy Forest Epidote, Hakkari Türkiye, 1.8 kg, 28 x 18 x 6 cm | Large Cabinet",
+   "locality": "Hakkari Türkiye",
+   "measurements": "1.8 kg · 28 × 18 × 6 cm",
    "price": "$579",
    "url": "https://www.etsy.com/listing/4460661452/cabinet-size-fairy-forest-epidote?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
    "images": [

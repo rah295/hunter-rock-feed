@@ -3,8 +3,8 @@
  "browse": {
   "species": [
    "Garnet",
-   "Quartz",
    "Fluorite",
+   "Quartz",
    "Agate",
    "Hematite",
    "Selenite",
@@ -47,7 +47,7 @@
    "Zircon"
   ]
  },
- "generated_at": "2026-09-20T16:59:53Z",
+ "generated_at": "2026-09-20T20:30:44Z",
  "shop_url": "https://www.etsy.com/shop/HunterMinerals",
  "for_sale": [
   {
@@ -125,6 +125,46 @@
     "https://i.etsystatic.com/41028267/r/il/f55fd7/8599905395/il_570xN.8599905395_p02v.jpg",
     "https://i.etsystatic.com/41028267/r/il/06b81d/8552036714/il_570xN.8552036714_mu7r.jpg",
     "https://i.etsystatic.com/41028267/r/il/2767c1/8599905659/il_570xN.8599905659_f3me.jpg"
+   ]
+  },
+  {
+   "name": "Fluorite",
+   "image": "https://i.etsystatic.com/41028267/r/il/e78b0d/8552124874/il_570xN.8552124874_2vns.jpg",
+   "alt": "Fluorite, Huanggang Mine China, 1.4 kg, 25 x 11 x 8 cm | Statement Piece | Large Cabinet",
+   "locality": "Huanggang Mine China",
+   "measurements": "1.4 kg · 25 × 11 × 8 cm",
+   "price": "$475",
+   "url": "https://www.etsy.com/listing/4579111957/fluorite-huanggang-mine-china-14-kg-25-x?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "grade": "Statement Piece",
+   "size": "Large Cabinet",
+   "species": "Fluorite",
+   "section": "Fluorite",
+   "tags": [
+    "fluorite",
+    "china fluorite",
+    "china mineral",
+    "china",
+    "huanggang mine",
+    "fluorite specimen",
+    "fluorite crystal",
+    "large cabinet",
+    "display piece",
+    "collector mineral",
+    "cabinet specimen",
+    "statement piece",
+    "home decor"
+   ],
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/e78b0d/8552124874/il_570xN.8552124874_2vns.jpg",
+    "https://i.etsystatic.com/41028267/r/il/e0ac7c/8552124212/il_570xN.8552124212_g5gj.jpg",
+    "https://i.etsystatic.com/41028267/r/il/89a9cb/8552124312/il_570xN.8552124312_prbx.jpg",
+    "https://i.etsystatic.com/41028267/r/il/ad554b/8599992951/il_570xN.8599992951_2ftk.jpg",
+    "https://i.etsystatic.com/41028267/r/il/0dd5c7/8599993229/il_570xN.8599993229_pgvw.jpg",
+    "https://i.etsystatic.com/41028267/r/il/a9b4e5/8599993339/il_570xN.8599993339_n58g.jpg",
+    "https://i.etsystatic.com/41028267/r/il/11abb4/8599993595/il_570xN.8599993595_olsy.jpg",
+    "https://i.etsystatic.com/41028267/r/il/764a8e/8599993651/il_570xN.8599993651_r1lc.jpg",
+    "https://i.etsystatic.com/41028267/r/il/3dfe27/8552125146/il_570xN.8552125146_j83f.jpg",
+    "https://i.etsystatic.com/41028267/r/il/0e7949/8552125218/il_570xN.8552125218_mt4e.jpg"
    ]
   },
   {

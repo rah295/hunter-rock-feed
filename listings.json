@@ -18,6 +18,7 @@
    "Malachite",
    "Peridotite",
    "Tourmaline",
+   "Apophyllite",
    "Aquamarine",
    "Dyscrasite",
    "Lepidolite",
@@ -37,6 +38,7 @@
    "Large Cabinet"
   ],
   "section": [
+   "Apophyllite",
    "Aquamarine",
    "Barite",
    "Collection Pieces",
@@ -55,9 +57,49 @@
    "Zircon"
   ]
  },
- "generated_at": "2026-10-09T04:59:51Z",
+ "generated_at": "2026-10-09T05:29:15Z",
  "shop_url": "https://www.etsy.com/shop/HunterMinerals",
  "for_sale": [
+  {
+   "name": "Apophyllite",
+   "image": "https://i.etsystatic.com/41028267/r/il/e0eabf/8695458509/il_570xN.8695458509_ddrv.jpg",
+   "alt": "Apophyllite, Ahmednagar India, 1.1 kg, 15 x 12 x 7 cm | Collector Grade | Large Cabinet",
+   "locality": "Ahmednagar India",
+   "measurements": "1.1 kg · 15 × 12 × 7 cm",
+   "price": "$225",
+   "url": "https://www.etsy.com/listing/4591636635/apophyllite-ahmednagar-india-11-kg-15-x?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
+   "grade": "Collector Grade",
+   "size": "Large Cabinet",
+   "species": "Apophyllite",
+   "section": "Apophyllite",
+   "tags": [
+    "apophyllite",
+    "india apophyllite",
+    "india mineral",
+    "india",
+    "ahmednagar",
+    "apophyllite specimen",
+    "apophyllite crystal",
+    "large cabinet",
+    "display piece",
+    "collector mineral",
+    "cabinet specimen",
+    "statement piece",
+    "home decor"
+   ],
+   "images": [
+    "https://i.etsystatic.com/41028267/r/il/e0eabf/8695458509/il_570xN.8695458509_ddrv.jpg",
+    "https://i.etsystatic.com/41028267/r/il/58fafd/8695458591/il_570xN.8695458591_otvm.jpg",
+    "https://i.etsystatic.com/41028267/r/il/c9c712/8695458647/il_570xN.8695458647_6c96.jpg",
+    "https://i.etsystatic.com/41028267/r/il/3f4dc2/8647628386/il_570xN.8647628386_5n8h.jpg",
+    "https://i.etsystatic.com/41028267/r/il/dd502a/8647628452/il_570xN.8647628452_3nfy.jpg",
+    "https://i.etsystatic.com/41028267/r/il/cdb51b/8695458819/il_570xN.8695458819_l9av.jpg",
+    "https://i.etsystatic.com/41028267/r/il/7ac782/8647628538/il_570xN.8647628538_d109.jpg",
+    "https://i.etsystatic.com/41028267/r/il/07799f/8647628586/il_570xN.8647628586_sdu0.jpg",
+    "https://i.etsystatic.com/41028267/r/il/8ff7ce/8695458939/il_570xN.8695458939_tcq2.jpg",
+    "https://i.etsystatic.com/41028267/r/il/abd67c/8695458989/il_570xN.8695458989_rmtk.jpg"
+   ]
+  },
   {
    "name": "Quartz",
    "image": "https://i.etsystatic.com/41028267/r/il/53a246/8647590702/il_570xN.8647590702_mk9w.jpg",

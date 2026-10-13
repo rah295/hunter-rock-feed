@@ -21,10 +21,10 @@
    "Apophyllite",
    "Aquamarine",
    "Dyscrasite",
+   "Gogotte",
    "Lepidolite",
    "Muscovite",
    "Rhodochrosite",
-   "Sandstone",
    "Zircon"
   ],
   "grade": [
@@ -57,12 +57,12 @@
    "Zircon"
   ]
  },
- "generated_at": "2026-10-12T04:59:50Z",
+ "generated_at": "2026-10-13T03:40:18Z",
  "shop_url": "https://www.etsy.com/shop/HunterMinerals",
  "for_sale": [
   {
    "name": "Apophyllite",
-   "image": "https://i.etsystatic.com/41028267/r/il/e0eabf/8695458509/il_570xN.8695458509_ddrv.jpg",
+   "image": "https://i.etsystatic.com/41028267/r/il/22a54b/8662840714/il_570xN.8662840714_cv8i.jpg",
    "alt": "Apophyllite, Ahmednagar India, 1.1 kg, 15 x 12 x 7 cm | Collector Grade | Large Cabinet",
    "locality": "Ahmednagar India",
    "measurements": "1.1 kg · 15 × 12 × 7 cm",
@@ -88,6 +88,7 @@
     "home decor"
    ],
    "images": [
+    "https://i.etsystatic.com/41028267/r/il/22a54b/8662840714/il_570xN.8662840714_cv8i.jpg",
     "https://i.etsystatic.com/41028267/r/il/e0eabf/8695458509/il_570xN.8695458509_ddrv.jpg",
     "https://i.etsystatic.com/41028267/r/il/58fafd/8695458591/il_570xN.8695458591_otvm.jpg",
     "https://i.etsystatic.com/41028267/r/il/c9c712/8695458647/il_570xN.8695458647_6c96.jpg",
@@ -97,7 +98,14 @@
     "https://i.etsystatic.com/41028267/r/il/7ac782/8647628538/il_570xN.8647628538_d109.jpg",
     "https://i.etsystatic.com/41028267/r/il/07799f/8647628586/il_570xN.8647628586_sdu0.jpg",
     "https://i.etsystatic.com/41028267/r/il/8ff7ce/8695458939/il_570xN.8695458939_tcq2.jpg",
-    "https://i.etsystatic.com/41028267/r/il/abd67c/8695458989/il_570xN.8695458989_rmtk.jpg"
+    "https://i.etsystatic.com/41028267/r/il/abd67c/8695458989/il_570xN.8695458989_rmtk.jpg",
+    "https://i.etsystatic.com/41028267/r/il/23c937/8662840668/il_570xN.8662840668_npjr.jpg",
+    "https://i.etsystatic.com/41028267/r/il/b93a00/8710678365/il_570xN.8710678365_3z8r.jpg",
+    "https://i.etsystatic.com/41028267/r/il/82c5be/8662840766/il_570xN.8662840766_a4fv.jpg",
+    "https://i.etsystatic.com/41028267/r/il/589deb/8662840740/il_570xN.8662840740_k08s.jpg",
+    "https://i.etsystatic.com/41028267/r/il/0ed1f4/8710678437/il_570xN.8710678437_acu0.jpg",
+    "https://i.etsystatic.com/41028267/r/il/b5f251/8662840918/il_570xN.8662840918_k2m2.jpg",
+    "https://i.etsystatic.com/41028267/r/il/bea0dd/8710678625/il_570xN.8710678625_p9a9.jpg"
    ]
   },
   {
@@ -597,20 +605,19 @@
    ]
   },
   {
-   "name": "Sandstone",
+   "name": "Gogotte",
    "image": "https://i.etsystatic.com/41028267/r/il/465a8e/8662805404/il_570xN.8662805404_sah7.jpg",
-   "alt": "Sandstone, Fontainebleau France, 1.2 kg, 22 x 8 x 6 cm | Museum Grade | Large Cabinet",
+   "alt": "Gogotte, Fontainebleau France, 1.2 kg, 22 x 8 x 6 cm | Museum Grade | Large Cabinet",
    "locality": "Fontainebleau France",
    "measurements": "1.2 kg · 22 × 8 × 6 cm",
    "price": "$775",
    "url": "https://www.etsy.com/listing/4590701355/sandstone-fontainebleau-france-12-kg-22?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
    "grade": "Museum Grade",
    "size": "Large Cabinet",
-   "species": "Sandstone",
+   "species": "Gogotte",
    "section": "Collection Pieces",
    "tags": [
     "sandstone",
-    "france sandstone",
     "france mineral",
     "france",
     "sandstone specimen",
@@ -747,45 +754,6 @@
     "https://i.etsystatic.com/41028267/r/il/0a949c/8558244822/il_570xN.8558244822_h65d.jpg",
     "https://i.etsystatic.com/41028267/r/il/ad55ed/8558244902/il_570xN.8558244902_nuba.jpg",
     "https://i.etsystatic.com/41028267/r/il/f1d763/8606102037/il_570xN.8606102037_4oyg.jpg"
-   ]
-  },
-  {
-   "name": "Pyrite",
-   "image": "https://i.etsystatic.com/41028267/r/il/f7e974/8558119558/il_570xN.8558119558_8bxr.jpg",
-   "alt": "Pyrite, Huanzala Mine Peru, 741 g, 9 x 7 x 6 cm | Collector Grade | Cabinet",
-   "locality": "Huanzala Mine Peru",
-   "measurements": "741 g · 9 × 7 × 6 cm",
-   "price": "$75",
-   "url": "https://www.etsy.com/listing/4579928740/pyrite-huanzala-mine-peru-741-g-9-x-7-x?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
-   "grade": "Collector Grade",
-   "size": "Cabinet",
-   "species": "Pyrite",
-   "section": "Pyrite",
-   "tags": [
-    "pyrite",
-    "peru pyrite",
-    "peru mineral",
-    "peru",
-    "huanzala mine",
-    "pyrite specimen",
-    "pyrite crystal",
-    "cabinet specimen",
-    "cabinet",
-    "display piece",
-    "collector mineral",
-    "statement piece",
-    "home decor"
-   ],
-   "images": [
-    "https://i.etsystatic.com/41028267/r/il/f7e974/8558119558/il_570xN.8558119558_8bxr.jpg",
-    "https://i.etsystatic.com/41028267/r/il/e49120/8605977527/il_570xN.8605977527_6k03.jpg",
-    "https://i.etsystatic.com/41028267/r/il/4e64a2/8558119764/il_570xN.8558119764_swix.jpg",
-    "https://i.etsystatic.com/41028267/r/il/683a37/8558119854/il_570xN.8558119854_ghym.jpg",
-    "https://i.etsystatic.com/41028267/r/il/a59083/8605977807/il_570xN.8605977807_hf9r.jpg",
-    "https://i.etsystatic.com/41028267/r/il/1e369a/8605977901/il_570xN.8605977901_31xs.jpg",
-    "https://i.etsystatic.com/41028267/r/il/d29b1c/8558120104/il_570xN.8558120104_4443.jpg",
-    "https://i.etsystatic.com/41028267/r/il/a8a7f5/8558120272/il_570xN.8558120272_bznh.jpg",
-    "https://i.etsystatic.com/41028267/r/il/ae9a0b/8605978355/il_570xN.8605978355_smt2.jpg"
    ]
   },
   {

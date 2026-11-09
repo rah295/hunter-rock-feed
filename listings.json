@@ -3,28 +3,28 @@
  "browse": {
   "species": [
    "Garnet",
-   "Fluorite",
    "Quartz",
-   "Pyrite",
+   "Fluorite",
    "Agate",
    "Barite",
    "Hematite",
    "Selenite",
    "Epidote",
-   "Chrysocolla",
+   "Pyrite",
    "Kyanite",
    "Malachite",
    "Peridotite",
    "Topaz",
    "Tourmaline",
-   "Vivianite",
    "Apophyllite",
    "Aquamarine",
+   "Chrysocolla",
    "Dyscrasite",
    "Gogotte",
    "Lepidolite",
    "Muscovite",
    "Rhodochrosite",
+   "Vivianite",
    "Zircon"
   ],
   "grade": [
@@ -57,7 +57,7 @@
    "Zircon"
   ]
  },
- "generated_at": "2026-11-08T04:37:57Z",
+ "generated_at": "2026-11-09T23:59:51Z",
  "shop_url": "https://www.etsy.com/shop/HunterMinerals",
  "for_sale": [
   {
@@ -673,44 +673,6 @@
   },
   {
    "name": "Pyrite",
-   "image": "https://i.etsystatic.com/41028267/r/il/92cc6f/8558074292/il_570xN.8558074292_47xv.jpg",
-   "alt": "Pyrite, Huanzala Mine Peru, 941 g, 11 x 9 x 6 cm | Collector Grade | Cabinet",
-   "locality": "Huanzala Mine Peru",
-   "measurements": "941 g · 11 × 9 × 6 cm",
-   "price": "$95",
-   "url": "https://www.etsy.com/listing/4579922624/pyrite-huanzala-mine-peru-941-g-11-x-9-x?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
-   "grade": "Collector Grade",
-   "size": "Cabinet",
-   "species": "Pyrite",
-   "section": "Pyrite",
-   "tags": [
-    "pyrite",
-    "peru pyrite",
-    "peru mineral",
-    "peru",
-    "huanzala mine",
-    "pyrite specimen",
-    "pyrite crystal",
-    "cabinet specimen",
-    "cabinet",
-    "display piece",
-    "collector mineral",
-    "statement piece",
-    "home decor"
-   ],
-   "images": [
-    "https://i.etsystatic.com/41028267/r/il/92cc6f/8558074292/il_570xN.8558074292_47xv.jpg",
-    "https://i.etsystatic.com/41028267/r/il/b6f517/8605932329/il_570xN.8605932329_i9qf.jpg",
-    "https://i.etsystatic.com/41028267/r/il/c30bf9/8605932425/il_570xN.8605932425_7wxh.jpg",
-    "https://i.etsystatic.com/41028267/r/il/d7e623/8605932691/il_570xN.8605932691_16a2.jpg",
-    "https://i.etsystatic.com/41028267/r/il/b08f28/8558074894/il_570xN.8558074894_sliw.jpg",
-    "https://i.etsystatic.com/41028267/r/il/22a45c/8605933095/il_570xN.8605933095_a2al.jpg",
-    "https://i.etsystatic.com/41028267/r/il/8b1e13/8605933193/il_570xN.8605933193_e4y1.jpg",
-    "https://i.etsystatic.com/41028267/r/il/5f4c30/8605933321/il_570xN.8605933321_4w5v.jpg"
-   ]
-  },
-  {
-   "name": "Pyrite",
    "image": "https://i.etsystatic.com/41028267/r/il/764676/8558061622/il_570xN.8558061622_ryev.jpg",
    "alt": "Pyrite, Huanzala Mine Peru, 1.7 kg, 11 x 10 x 10 cm | Collector Grade | Cabinet",
    "locality": "Huanzala Mine Peru",
@@ -745,44 +707,6 @@
     "https://i.etsystatic.com/41028267/r/il/778ed8/8605907227/il_570xN.8605907227_rglx.jpg",
     "https://i.etsystatic.com/41028267/r/il/24b2b2/8558049340/il_570xN.8558049340_b9oz.jpg",
     "https://i.etsystatic.com/41028267/r/il/c0cd21/8605907589/il_570xN.8605907589_o4ov.jpg"
-   ]
-  },
-  {
-   "name": "Pyrite",
-   "image": "https://i.etsystatic.com/41028267/r/il/b4a47f/8558093518/il_570xN.8558093518_lp1q.jpg",
-   "alt": "Pyrite, Huanzala Mine Peru, 1.2 kg, 10 x 9 x 12 cm | Collector Grade | Large Cabinet",
-   "locality": "Huanzala Mine Peru",
-   "measurements": "1.2 kg · 10 × 9 × 12 cm",
-   "price": "$95",
-   "url": "https://www.etsy.com/listing/4579907953/pyrite-huanzala-mine-peru-12-kg-10-x-9-x?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
-   "grade": "Collector Grade",
-   "size": "Large Cabinet",
-   "species": "Pyrite",
-   "section": "Pyrite",
-   "tags": [
-    "pyrite",
-    "peru pyrite",
-    "peru mineral",
-    "peru",
-    "huanzala mine",
-    "pyrite specimen",
-    "pyrite crystal",
-    "large cabinet",
-    "display piece",
-    "collector mineral",
-    "cabinet specimen",
-    "statement piece",
-    "home decor"
-   ],
-   "images": [
-    "https://i.etsystatic.com/41028267/r/il/b4a47f/8558093518/il_570xN.8558093518_lp1q.jpg",
-    "https://i.etsystatic.com/41028267/r/il/b84263/8558089288/il_570xN.8558089288_lu2d.jpg",
-    "https://i.etsystatic.com/41028267/r/il/8bb479/8605947499/il_570xN.8605947499_dy8r.jpg",
-    "https://i.etsystatic.com/41028267/r/il/5af6e4/8605947599/il_570xN.8605947599_t0qq.jpg",
-    "https://i.etsystatic.com/41028267/r/il/dfdeec/8558089606/il_570xN.8558089606_gju6.jpg",
-    "https://i.etsystatic.com/41028267/r/il/b1fb25/8605947809/il_570xN.8605947809_6orv.jpg",
-    "https://i.etsystatic.com/41028267/r/il/b11844/8558089778/il_570xN.8558089778_7sgt.jpg",
-    "https://i.etsystatic.com/41028267/r/il/396a74/8605948003/il_570xN.8605948003_13ch.jpg"
    ]
   },
   {
@@ -1606,35 +1530,6 @@
    ]
   },
   {
-   "name": "Chrysocolla on Malachite Polished Stalactite",
-   "image": "https://i.etsystatic.com/41028267/r/il/6668c0/7777976413/il_570xN.7777976413_75w7.jpg",
-   "alt": "Chrysocolla on Malachite Polished Stalactite",
-   "price": "$275",
-   "url": "https://www.etsy.com/listing/4460643865/chrysocolla-on-malachite-polished?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
-   "species": "Chrysocolla",
-   "section": "Malachite",
-   "tags": [
-    "Healing",
-    "Energy",
-    "Nature",
-    "Natural",
-    "Stone",
-    "Calming",
-    "Heal",
-    "Calm",
-    "Polished Stone",
-    "Rock",
-    "Rocks",
-    "Stalactite",
-    "Rock collection"
-   ],
-   "images": [
-    "https://i.etsystatic.com/41028267/r/il/6668c0/7777976413/il_570xN.7777976413_75w7.jpg",
-    "https://i.etsystatic.com/41028267/r/il/b7f690/7730031874/il_570xN.7730031874_s77o.jpg",
-    "https://i.etsystatic.com/41028267/r/il/720c6a/7730031660/il_570xN.7730031660_aeaz.jpg"
-   ]
-  },
-  {
    "name": "Chrysocolla with Malachite",
    "image": "https://i.etsystatic.com/41028267/r/il/753dea/7777965993/il_570xN.7777965993_5joa.jpg",
    "alt": "Chrysocolla with Malachite, Democratic Republic of Congo, 1.3 kg, 12 x 16 x 4 cm | Large Cabinet",
@@ -1841,73 +1736,6 @@
     "https://i.etsystatic.com/41028267/r/il/412c7b/5972475576/il_570xN.5972475576_li4l.jpg",
     "https://i.etsystatic.com/41028267/r/il/1396b0/6020555991/il_570xN.6020555991_4wum.jpg",
     "https://i.etsystatic.com/41028267/r/il/3de969/6020555989/il_570xN.6020555989_3kq1.jpg"
-   ]
-  },
-  {
-   "name": "Blueberry Fluorite",
-   "image": "https://i.etsystatic.com/41028267/r/il/c9ada8/6016207651/il_570xN.6016207651_5ikl.jpg",
-   "alt": "Blueberry Fluorite, Inner Mongolia China, 891 g, 12 x 13 x 5 cm | Large Cabinet",
-   "locality": "Inner Mongolia China",
-   "measurements": "891 g · 12 × 13 × 5 cm",
-   "price": "$90",
-   "url": "https://www.etsy.com/listing/1726165349/blueberry-fluorite?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
-   "size": "Large Cabinet",
-   "species": "Fluorite",
-   "section": "Fluorite",
-   "tags": [
-    "blueberry fluorite",
-    "fluorite",
-    "china fluorite",
-    "china mineral",
-    "china",
-    "fluorite specimen",
-    "large cabinet",
-    "display piece",
-    "collector mineral",
-    "cabinet specimen",
-    "statement piece",
-    "home decor",
-    "Natural art"
-   ],
-   "images": [
-    "https://i.etsystatic.com/41028267/r/il/c9ada8/6016207651/il_570xN.6016207651_5ikl.jpg",
-    "https://i.etsystatic.com/41028267/r/il/fa6ab5/5968127262/il_570xN.5968127262_tobg.jpg",
-    "https://i.etsystatic.com/41028267/r/il/95e02f/6016207653/il_570xN.6016207653_38dy.jpg",
-    "https://i.etsystatic.com/41028267/r/il/d1ab07/5968127260/il_570xN.5968127260_iap5.jpg"
-   ]
-  },
-  {
-   "name": "Vivianite",
-   "image": "https://i.etsystatic.com/41028267/r/il/7e433c/6013233941/il_570xN.6013233941_iwz1.jpg",
-   "alt": "Vivianite, Amazonas Brazil, 3.7 kg, 24 x 18 x 8 cm | Large Cabinet",
-   "locality": "Amazonas Brazil",
-   "measurements": "3.7 kg · 24 × 18 × 8 cm",
-   "price": "$575",
-   "url": "https://www.etsy.com/listing/1725446853/vivianite-in-matrix?utm_source=hunterrockandmineral&utm_medium=referral&utm_campaign=shop",
-   "size": "Large Cabinet",
-   "species": "Vivianite",
-   "section": "Vivianite",
-   "tags": [
-    "vivianite",
-    "brazil vivianite",
-    "brazil mineral",
-    "brazil",
-    "vivianite specimen",
-    "vivianite crystal",
-    "large cabinet",
-    "display piece",
-    "collector mineral",
-    "cabinet specimen",
-    "statement piece",
-    "home decor",
-    "shelf decor"
-   ],
-   "images": [
-    "https://i.etsystatic.com/41028267/r/il/7e433c/6013233941/il_570xN.6013233941_iwz1.jpg",
-    "https://i.etsystatic.com/41028267/r/il/81a6d8/6013233949/il_570xN.6013233949_lpah.jpg",
-    "https://i.etsystatic.com/41028267/r/il/4bda99/6013233953/il_570xN.6013233953_kim0.jpg",
-    "https://i.etsystatic.com/41028267/r/il/8f06fb/6013233957/il_570xN.6013233957_akyz.jpg",
-    "https://i.etsystatic.com/41028267/r/il/e51cd3/6013233959/il_570xN.6013233959_41rd.jpg"
    ]
   },
   {
